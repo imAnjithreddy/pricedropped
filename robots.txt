@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://imanjithreddy.github.io/pricedropped/sitemap.xml
