@@ -3,7 +3,7 @@
 > Real price drops, price errors, brand steals and the lowest prices of popular products (iPhone, Galaxy, AirPods,
 > PlayStation...) in India, new and refurbished. Prices are checked every two hours at Amazon, Flipkart, Myntra,
 > Snapdeal, Tata CLiQ, Cashify and 60+ brand stores, and every deal is checked against that product's own price
-> history before it's listed. Last updated 21 October 2026, 18:10 IST.
+> history before it's listed. Last updated 21 October 2026, 18:53 IST.
 
 Prices change fast: each page says when it was checked. Refurbished items are always labelled. Some links are
 affiliate links. Free alerts: https://t.me/pricedroppedhq
@@ -37,6 +37,9 @@ affiliate links. Free alerts: https://t.me/pricedroppedhq
 - [How we find deals](https://imanjithreddy.github.io/pricedropped/about.html)
 
 ## Live deals right now
+- [adidas Adistar Jellyfish Pharrell Williams Red](https://imanjithreddy.github.io/pricedropped/deal/adidas-adistar-jellyfish-pharrell-williams-red-10330076610806.html): ₹39,999 at Crep Dog Crew
+- [Ray-Ban Green UV Protection Oval Unisex Sunglasses](https://imanjithreddy.github.io/pricedropped/deal/ray-ban-green-uv-protection-oval-unisex-sunglasses-mp000000028634945.html): ₹10,701 at Tata CLiQ
+- [boAt 20000 mAh 22.5 W Slim Power Bank](https://imanjithreddy.github.io/pricedropped/deal/boat-20000-mah-22-5-w-slim-power-bank-pwbgr4kghxqczvsq.html): ₹1,399 at Flipkart
 - [U.S. Polo Assn. Men Round Toe Sneakers](https://imanjithreddy.github.io/pricedropped/deal/u-s-polo-assn-men-round-toe-sneakers-33987435.html): ₹1,121 at Myntra
 - [Panasonic 20W TheaLED Ace LED Batten, 20W Tube light for Living Room & Bedroom, ](https://imanjithreddy.github.io/pricedropped/deal/panasonic-20w-thealed-ace-led-batten-20w-tube-light-for-living-room-be-b0f38cp5x4.html): ₹609 at Amazon
 - [Apple Watch Series 11 GPS 46mm Space Grey Aluminium Cas...](https://imanjithreddy.github.io/pricedropped/deal/apple-watch-series-11-gps-46mm-space-grey-aluminium-cas-smwhfswryyybswpe.html): ₹37,499 at Flipkart
@@ -54,6 +57,3 @@ affiliate links. Free alerts: https://t.me/pricedroppedhq
 - [Apple iPhone 13 - Refurbished](https://imanjithreddy.github.io/pricedropped/deal/apple-iphone-13-refurbished-apple-iphone-13-refu.html): ₹29,499 at Cashify (refurbished)
 - [Samsung Galaxy S24 Ultra 5G - Refurbished](https://imanjithreddy.github.io/pricedropped/deal/samsung-galaxy-s24-ultra-5g-refurbished-samsung-galaxy-s24-u.html): ₹66,999 at Cashify (refurbished)
 - [SONY WH-1000XM5 Wireless Noise Cancellation with AI Noise Reduction Bluetooth](https://imanjithreddy.github.io/pricedropped/deal/sony-wh-1000xm5-wireless-noise-cancellation-with-ai-noise-reduction-bl-acchgbcbnhyfsvfz.html): ₹19,489 at Flipkart
-- [Nike Sportswear Chill Terry Women's Mid-Rise French Terry Printed Shorts](https://imanjithreddy.github.io/pricedropped/deal/nike-sportswear-chill-terry-women-s-mid-rise-french-terry-printed-shor-35919032.html): ₹1,223 at Myntra
-- [Cadbury Oreo Chocolate Flavour Creme Sandwich Biscuit, 41.75 g](https://imanjithreddy.github.io/pricedropped/deal/cadbury-oreo-chocolate-flavour-creme-sandwich-biscuit-41-75-g-b071wvybgf.html): ₹10 at Amazon
-- [AXE Signature Mysterious and Intense Deodorant No Gas Body Perfume Body Spray  -](https://imanjithreddy.github.io/pricedropped/deal/axe-signature-mysterious-and-intense-deodorant-no-gas-body-perfume-bod-deoghqgythpfekyw.html): ₹189 at Flipkart
