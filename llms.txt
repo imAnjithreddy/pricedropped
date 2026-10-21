@@ -3,7 +3,7 @@
 > Real price drops, price errors, brand steals and the lowest prices of popular products (iPhone, Galaxy, AirPods,
 > PlayStation...) in India, new and refurbished. Prices are checked every two hours at Amazon, Flipkart, Myntra,
 > Snapdeal, Tata CLiQ, Cashify and 60+ brand stores, and every deal is checked against that product's own price
-> history before it's listed. Last updated 22 October 2026, 00:33 IST.
+> history before it's listed. Last updated 22 October 2026, 00:53 IST.
 
 Prices change fast: each page says when it was checked. Refurbished items are always labelled. Some links are
 affiliate links. Free alerts: https://t.me/pricedroppedhq
@@ -37,6 +37,7 @@ affiliate links. Free alerts: https://t.me/pricedroppedhq
 - [How we find deals](https://imanjithreddy.github.io/pricedropped/about.html)
 
 ## Live deals right now
+- [Puma Smashic Comfort Casual Sneakers](https://imanjithreddy.github.io/pricedropped/deal/puma-smashic-comfort-casual-sneakers-21767244.html): ₹1,664 at Myntra
 - [Apple iPhone 15 - Refurbished](https://imanjithreddy.github.io/pricedropped/deal/apple-iphone-15-refurbished-apple-iphone-15-refu.html): ₹43,899 at Cashify (refurbished)
 - [Apple iPhone 14 - Refurbished](https://imanjithreddy.github.io/pricedropped/deal/apple-iphone-14-refurbished-apple-iphone-14-refu.html): ₹35,799 at Cashify (refurbished)
 - [adidas Adistar Jellyfish Pharrell Williams Red](https://imanjithreddy.github.io/pricedropped/deal/adidas-adistar-jellyfish-pharrell-williams-red-10330076610806.html): ₹39,999 at Crep Dog Crew
@@ -56,4 +57,3 @@ affiliate links. Free alerts: https://t.me/pricedroppedhq
 - [boAt Stone 350 Pro Plus Speaker,8H Battery,TWS Mode,Voice Assistant,With Mic,IPX](https://imanjithreddy.github.io/pricedropped/deal/boat-stone-350-pro-plus-speaker-8h-battery-tws-mode-voice-assistant-wi-acchnnggjfmcskte.html): ₹1,399 at Flipkart
 - [Levis Men 512 Slim Fit Light Fade Stretchable Jeans](https://imanjithreddy.github.io/pricedropped/deal/levis-men-512-slim-fit-light-fade-stretchable-jeans-25756722.html): ₹1,079 at Myntra
 - [Puma Men Cream-Coloured and Orange Colourblocked Sneakers](https://imanjithreddy.github.io/pricedropped/deal/puma-men-cream-coloured-and-orange-colourblocked-sneakers-17350718.html): ₹1,124 at Myntra
-- [Apple iPhone 13 - Refurbished](https://imanjithreddy.github.io/pricedropped/deal/apple-iphone-13-refurbished-apple-iphone-13-refu.html): ₹29,499 at Cashify (refurbished)
