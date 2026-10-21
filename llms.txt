@@ -3,7 +3,7 @@
 > Real price drops, price errors, brand steals and the lowest prices of popular products (iPhone, Galaxy, AirPods,
 > PlayStation...) in India, new and refurbished. Prices are checked every two hours at Amazon, Flipkart, Myntra,
 > Snapdeal, Tata CLiQ, Cashify and 60+ brand stores, and every deal is checked against that product's own price
-> history before it's listed. Last updated 22 October 2026, 01:54 IST.
+> history before it's listed. Last updated 22 October 2026, 02:13 IST.
 
 Prices change fast: each page says when it was checked. Refurbished items are always labelled. Some links are
 affiliate links. Free alerts: https://t.me/pricedroppedhq
@@ -36,6 +36,7 @@ affiliate links. Free alerts: https://t.me/pricedroppedhq
 - [How we find deals](https://imanjithreddy.github.io/pricedropped/about.html)
 
 ## Live deals right now
+- [Red Tape Men Pull On Clogs](https://imanjithreddy.github.io/pricedropped/deal/red-tape-men-pull-on-clogs-b0cswkmk1j.html): ₹498 at Amazon
 - [U.S. Polo Assn. Men Sneakers](https://imanjithreddy.github.io/pricedropped/deal/u-s-polo-assn-men-sneakers-42757363.html): ₹1,189 at Myntra
 - [VYAKAT Washing Machine Cleaner Triple Decontamination Effervescent Tub Cleaning ](https://imanjithreddy.github.io/pricedropped/deal/vyakat-washing-machine-cleaner-triple-decontamination-effervescent-tub-dwdgnx9vhu479w8y.html): ₹72 at Flipkart
 - [Mothca tempered glass for Samsung Galaxy S25 | Fingerprint & Smudge Resistant , ](https://imanjithreddy.github.io/pricedropped/deal/mothca-tempered-glass-for-samsung-galaxy-s25-fingerprint-smudge-resist-b0hjc6z5qz.html): ₹99 at Amazon
@@ -55,4 +56,3 @@ affiliate links. Free alerts: https://t.me/pricedroppedhq
 - [Portronics Bubble 3.0 Wireless Keyboard with Bluetooth + 2.4 GHz USB Receiver, R](https://imanjithreddy.github.io/pricedropped/deal/portronics-bubble-3-0-wireless-keyboard-with-bluetooth-2-4-ghz-usb-rec-b0fgvqbnsb.html): ₹779 at Amazon
 - [Amazon Brand - Symbol Men's Stretchable Formal Pants](https://imanjithreddy.github.io/pricedropped/deal/amazon-brand-symbol-men-s-stretchable-formal-pants-b07yt13gn4.html): ₹649 at Amazon
 - [Panasonic 20W TheaLED Batten Tube Light for Living Room & Bedroom, Energy Effici](https://imanjithreddy.github.io/pricedropped/deal/panasonic-20w-thealed-batten-tube-light-for-living-room-bedroom-energy-b0drcd16gn.html): ₹899 at Amazon
-- [U.S. Polo Assn. Men Colourblocked Sneakers](https://imanjithreddy.github.io/pricedropped/deal/u-s-polo-assn-men-colourblocked-sneakers-42757364.html): ₹1,189 at Myntra
