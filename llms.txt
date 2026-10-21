@@ -3,7 +3,7 @@
 > Real price drops, price errors, brand steals and the lowest prices of popular products (iPhone, Galaxy, AirPods,
 > PlayStation...) in India, new and refurbished. Prices are checked every two hours at Amazon, Flipkart, Myntra,
 > Snapdeal, Tata CLiQ, Cashify and 60+ brand stores, and every deal is checked against that product's own price
-> history before it's listed. Last updated 21 October 2026, 10:55 IST.
+> history before it's listed. Last updated 21 October 2026, 11:35 IST.
 
 Prices change fast: each page says when it was checked. Refurbished items are always labelled. Some links are
 affiliate links. Free alerts: https://t.me/pricedroppedhq
@@ -35,6 +35,9 @@ affiliate links. Free alerts: https://t.me/pricedroppedhq
 - [How we find deals](https://imanjithreddy.github.io/pricedropped/about.html)
 
 ## Live deals right now
+- [Apple Watch Series 11 GPS 46mm Space Grey Aluminium Cas...](https://imanjithreddy.github.io/pricedropped/deal/apple-watch-series-11-gps-46mm-space-grey-aluminium-cas-smwhfswryyybswpe.html): ₹37,499 at Flipkart
+- [Samsung Galaxy Tab S10 Lite 6 GB RAM 128 GB ROM 10.9 inch with Wi-Fi Only Tablet](https://imanjithreddy.github.io/pricedropped/deal/samsung-galaxy-tab-s10-lite-6-gb-ram-128-gb-rom-10-9-inch-with-wi-fi-o-tabhgbdhhyshbgpb.html): ₹32,433 at Flipkart
+- [HEMSHAIL Digital Sports Watch for Men and Boys | Stylish Waterproof-Look Electro](https://imanjithreddy.github.io/pricedropped/deal/hemshail-digital-sports-watch-for-men-and-boys-stylish-waterproof-look-b0hn91w1kj.html): ₹69 at Amazon
 - [boAt Stone Arc Pro Plus, Spatial Audio, 78mm Drivers, 12H Battery, RGBs & App Su](https://imanjithreddy.github.io/pricedropped/deal/boat-stone-arc-pro-plus-spatial-audio-78mm-drivers-12h-battery-rgbs-ap-acchdyd8nxrfjdy5.html): ₹2,499 at Flipkart
 - [Portronics Bubble 3.0 Wireless Keyboard with Bluetooth + 2.4 GHz USB Receiver, R](https://imanjithreddy.github.io/pricedropped/deal/portronics-bubble-3-0-wireless-keyboard-with-bluetooth-2-4-ghz-usb-rec-b0fgvqbnsb.html): ₹779 at Amazon
 - [Amazon Brand - Symbol Men's Stretchable Formal Pants](https://imanjithreddy.github.io/pricedropped/deal/amazon-brand-symbol-men-s-stretchable-formal-pants-b07yt13gn4.html): ₹649 at Amazon
