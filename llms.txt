@@ -3,7 +3,7 @@
 > Real price drops, price errors, brand steals and the lowest prices of popular products (iPhone, Galaxy, AirPods,
 > PlayStation...) in India, new and refurbished. Prices are checked every two hours at Amazon, Flipkart, Myntra,
 > Snapdeal, Tata CLiQ, Cashify and 60+ brand stores, and every deal is checked against that product's own price
-> history before it's listed. Last updated 21 October 2026, 23:52 IST.
+> history before it's listed. Last updated 22 October 2026, 00:13 IST.
 
 Prices change fast: each page says when it was checked. Refurbished items are always labelled. Some links are
 affiliate links. Free alerts: https://t.me/pricedroppedhq
@@ -37,6 +37,7 @@ affiliate links. Free alerts: https://t.me/pricedroppedhq
 - [How we find deals](https://imanjithreddy.github.io/pricedropped/about.html)
 
 ## Live deals right now
+- [Apple iPhone 14 - Refurbished](https://imanjithreddy.github.io/pricedropped/deal/apple-iphone-14-refurbished-apple-iphone-14-refu.html): ₹35,799 at Cashify (refurbished)
 - [adidas Adistar Jellyfish Pharrell Williams Red](https://imanjithreddy.github.io/pricedropped/deal/adidas-adistar-jellyfish-pharrell-williams-red-10330076610806.html): ₹39,999 at Crep Dog Crew
 - [Ray-Ban Green UV Protection Oval Unisex Sunglasses](https://imanjithreddy.github.io/pricedropped/deal/ray-ban-green-uv-protection-oval-unisex-sunglasses-mp000000028634945.html): ₹10,701 at Tata CLiQ
 - [boAt 20000 mAh 22.5 W Slim Power Bank](https://imanjithreddy.github.io/pricedropped/deal/boat-20000-mah-22-5-w-slim-power-bank-pwbgr4kghxqczvsq.html): ₹1,399 at Flipkart
@@ -56,4 +57,3 @@ affiliate links. Free alerts: https://t.me/pricedroppedhq
 - [Puma Men Cream-Coloured and Orange Colourblocked Sneakers](https://imanjithreddy.github.io/pricedropped/deal/puma-men-cream-coloured-and-orange-colourblocked-sneakers-17350718.html): ₹1,124 at Myntra
 - [Apple iPhone 13 - Refurbished](https://imanjithreddy.github.io/pricedropped/deal/apple-iphone-13-refurbished-apple-iphone-13-refu.html): ₹29,499 at Cashify (refurbished)
 - [Samsung Galaxy S24 Ultra 5G - Refurbished](https://imanjithreddy.github.io/pricedropped/deal/samsung-galaxy-s24-ultra-5g-refurbished-samsung-galaxy-s24-u.html): ₹66,999 at Cashify (refurbished)
-- [SONY WH-1000XM5 Wireless Noise Cancellation with AI Noise Reduction Bluetooth](https://imanjithreddy.github.io/pricedropped/deal/sony-wh-1000xm5-wireless-noise-cancellation-with-ai-noise-reduction-bl-acchgbcbnhyfsvfz.html): ₹19,489 at Flipkart
