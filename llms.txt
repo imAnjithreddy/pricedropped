@@ -3,13 +3,14 @@
 > Real price drops, price errors, brand steals and the lowest prices of popular products (iPhone, Galaxy, AirPods,
 > PlayStation...) in India, new and refurbished. Prices are checked every two hours at Amazon, Flipkart, Myntra,
 > Snapdeal, Tata CLiQ, Cashify and 60+ brand stores, and every deal is checked against that product's own price
-> history before it's listed. Last updated 21 October 2026, 11:56 IST.
+> history before it's listed. Last updated 21 October 2026, 12:26 IST.
 
 Prices change fast: each page says when it was checked. Refurbished items are always labelled. Some links are
 affiliate links. Free alerts: https://t.me/pricedroppedhq
 
 ## Lowest prices today, with price history (updated every two hours)
 - [AirPods 4 price in India today](https://imanjithreddy.github.io/pricedropped/price/airpods-4-price-in-india.html)
+- [AirPods Pro 2 price in India today](https://imanjithreddy.github.io/pricedropped/price/airpods-pro-2-price-in-india.html)
 - [Apple Watch SE price in India today](https://imanjithreddy.github.io/pricedropped/price/apple-watch-se-price-in-india.html)
 - [Galaxy S24 price in India today](https://imanjithreddy.github.io/pricedropped/price/galaxy-s24-price-in-india.html)
 - [Galaxy S24 FE price in India today](https://imanjithreddy.github.io/pricedropped/price/galaxy-s24-fe-price-in-india.html)
@@ -35,6 +36,7 @@ affiliate links. Free alerts: https://t.me/pricedroppedhq
 - [How we find deals](https://imanjithreddy.github.io/pricedropped/about.html)
 
 ## Live deals right now
+- [Panasonic 20W TheaLED Ace LED Batten, 20W Tube light for Living Room & Bedroom, ](https://imanjithreddy.github.io/pricedropped/deal/panasonic-20w-thealed-ace-led-batten-20w-tube-light-for-living-room-be-b0f38cp5x4.html): ₹609 at Amazon
 - [Apple Watch Series 11 GPS 46mm Space Grey Aluminium Cas...](https://imanjithreddy.github.io/pricedropped/deal/apple-watch-series-11-gps-46mm-space-grey-aluminium-cas-smwhfswryyybswpe.html): ₹37,499 at Flipkart
 - [Samsung Galaxy Tab S10 Lite 6 GB RAM 128 GB ROM 10.9 inch with Wi-Fi Only Tablet](https://imanjithreddy.github.io/pricedropped/deal/samsung-galaxy-tab-s10-lite-6-gb-ram-128-gb-rom-10-9-inch-with-wi-fi-o-tabhgbdhhyshbgpb.html): ₹32,433 at Flipkart
 - [HEMSHAIL Digital Sports Watch for Men and Boys | Stylish Waterproof-Look Electro](https://imanjithreddy.github.io/pricedropped/deal/hemshail-digital-sports-watch-for-men-and-boys-stylish-waterproof-look-b0hn91w1kj.html): ₹69 at Amazon
