@@ -3,7 +3,7 @@
 > Real price drops, price errors, brand steals and the lowest prices of popular products (iPhone, Galaxy, AirPods,
 > PlayStation...) in India, new and refurbished. Prices are checked every two hours at Amazon, Flipkart, Myntra,
 > Snapdeal, Tata CLiQ, Cashify and 60+ brand stores, and every deal is checked against that product's own price
-> history before it's listed. Last updated 22 October 2026, 02:55 IST.
+> history before it's listed. Last updated 22 October 2026, 03:37 IST.
 
 Prices change fast: each page says when it was checked. Refurbished items are always labelled. Some links are
 affiliate links. Free alerts: https://t.me/pricedroppedhq
@@ -36,6 +36,9 @@ affiliate links. Free alerts: https://t.me/pricedroppedhq
 - [How we find deals](https://imanjithreddy.github.io/pricedropped/about.html)
 
 ## Live deals right now
+- [boAt 20000 mAh 22.5 W Compact Pocket Size Power Bank](https://imanjithreddy.github.io/pricedropped/deal/boat-20000-mah-22-5-w-compact-pocket-size-power-bank-pwbgr4kgumszqmfz.html): ₹1,399 at Flipkart
+- [Red Tape Mens Lightweight EVA Clogs Slip-On Comfortable Casual Footwear with Adj](https://imanjithreddy.github.io/pricedropped/deal/red-tape-mens-lightweight-eva-clogs-slip-on-comfortable-casual-footwea-b0g8t997ng.html): ₹580 at Amazon
+- [Pop Modern  Solid Textured Cushion Cover 45x45 Cm in Navy Colour](https://imanjithreddy.github.io/pricedropped/deal/pop-modern-solid-textured-cushion-cover-45x45-cm-in-navy-colour-9367712563479.html): ₹49 at HomeTown
 - [amazon basics Velvet Suit Hangers, 30-Pack, Ivory](https://imanjithreddy.github.io/pricedropped/deal/amazon-basics-velvet-suit-hangers-30-pack-ivory-b01m7s9c6n.html): ₹499 at Amazon
 - [PHILIPS WiZ Neo 12W B22 Wi-Fi & Bluetooth LED Smart Bulb with Music Sync, Compat](https://imanjithreddy.github.io/pricedropped/deal/philips-wiz-neo-12w-b22-wi-fi-bluetooth-led-smart-bulb-with-music-sync-b0chydwz77.html): ₹499 at Amazon
 - [Red Tape Men Pull On Clogs](https://imanjithreddy.github.io/pricedropped/deal/red-tape-men-pull-on-clogs-b0cswkmk1j.html): ₹498 at Amazon
@@ -53,6 +56,3 @@ affiliate links. Free alerts: https://t.me/pricedroppedhq
 - [Panasonic 20W TheaLED Ace LED Batten, 20W Tube light for Living Room & Bedroom, ](https://imanjithreddy.github.io/pricedropped/deal/panasonic-20w-thealed-ace-led-batten-20w-tube-light-for-living-room-be-b0f38cp5x4.html): ₹609 at Amazon
 - [Apple Watch Series 11 GPS 46mm Space Grey Aluminium Cas...](https://imanjithreddy.github.io/pricedropped/deal/apple-watch-series-11-gps-46mm-space-grey-aluminium-cas-smwhfswryyybswpe.html): ₹37,499 at Flipkart
 - [Samsung Galaxy Tab S10 Lite 6 GB RAM 128 GB ROM 10.9 inch with Wi-Fi Only Tablet](https://imanjithreddy.github.io/pricedropped/deal/samsung-galaxy-tab-s10-lite-6-gb-ram-128-gb-rom-10-9-inch-with-wi-fi-o-tabhgbdhhyshbgpb.html): ₹32,433 at Flipkart
-- [HEMSHAIL Digital Sports Watch for Men and Boys | Stylish Waterproof-Look Electro](https://imanjithreddy.github.io/pricedropped/deal/hemshail-digital-sports-watch-for-men-and-boys-stylish-waterproof-look-b0hn91w1kj.html): ₹69 at Amazon
-- [boAt Stone Arc Pro Plus, Spatial Audio, 78mm Drivers, 12H Battery, RGBs & App Su](https://imanjithreddy.github.io/pricedropped/deal/boat-stone-arc-pro-plus-spatial-audio-78mm-drivers-12h-battery-rgbs-ap-acchdyd8nxrfjdy5.html): ₹2,499 at Flipkart
-- [Portronics Bubble 3.0 Wireless Keyboard with Bluetooth + 2.4 GHz USB Receiver, R](https://imanjithreddy.github.io/pricedropped/deal/portronics-bubble-3-0-wireless-keyboard-with-bluetooth-2-4-ghz-usb-rec-b0fgvqbnsb.html): ₹779 at Amazon
