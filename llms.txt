@@ -3,7 +3,7 @@
 > Real price drops, price errors, brand steals and the lowest prices of popular products (iPhone, Galaxy, AirPods,
 > PlayStation...) in India, new and refurbished. Prices are checked every two hours at Amazon, Flipkart, Myntra,
 > Snapdeal, Tata CLiQ, Cashify and 60+ brand stores, and every deal is checked against that product's own price
-> history before it's listed. Last updated 21 October 2026, 12:56 IST.
+> history before it's listed. Last updated 21 October 2026, 13:42 IST.
 
 Prices change fast: each page says when it was checked. Refurbished items are always labelled. Some links are
 affiliate links. Free alerts: https://t.me/pricedroppedhq
@@ -36,6 +36,7 @@ affiliate links. Free alerts: https://t.me/pricedroppedhq
 - [How we find deals](https://imanjithreddy.github.io/pricedropped/about.html)
 
 ## Live deals right now
+- [U.S. Polo Assn. Men Round Toe Sneakers](https://imanjithreddy.github.io/pricedropped/deal/u-s-polo-assn-men-round-toe-sneakers-33987435.html): ₹1,121 at Myntra
 - [Panasonic 20W TheaLED Ace LED Batten, 20W Tube light for Living Room & Bedroom, ](https://imanjithreddy.github.io/pricedropped/deal/panasonic-20w-thealed-ace-led-batten-20w-tube-light-for-living-room-be-b0f38cp5x4.html): ₹609 at Amazon
 - [Apple Watch Series 11 GPS 46mm Space Grey Aluminium Cas...](https://imanjithreddy.github.io/pricedropped/deal/apple-watch-series-11-gps-46mm-space-grey-aluminium-cas-smwhfswryyybswpe.html): ₹37,499 at Flipkart
 - [Samsung Galaxy Tab S10 Lite 6 GB RAM 128 GB ROM 10.9 inch with Wi-Fi Only Tablet](https://imanjithreddy.github.io/pricedropped/deal/samsung-galaxy-tab-s10-lite-6-gb-ram-128-gb-rom-10-9-inch-with-wi-fi-o-tabhgbdhhyshbgpb.html): ₹32,433 at Flipkart
@@ -55,4 +56,3 @@ affiliate links. Free alerts: https://t.me/pricedroppedhq
 - [Nike Sportswear Chill Terry Women's Mid-Rise French Terry Printed Shorts](https://imanjithreddy.github.io/pricedropped/deal/nike-sportswear-chill-terry-women-s-mid-rise-french-terry-printed-shor-35919032.html): ₹1,223 at Myntra
 - [Cadbury Oreo Chocolate Flavour Creme Sandwich Biscuit, 41.75 g](https://imanjithreddy.github.io/pricedropped/deal/cadbury-oreo-chocolate-flavour-creme-sandwich-biscuit-41-75-g-b071wvybgf.html): ₹10 at Amazon
 - [AXE Signature Mysterious and Intense Deodorant No Gas Body Perfume Body Spray  -](https://imanjithreddy.github.io/pricedropped/deal/axe-signature-mysterious-and-intense-deodorant-no-gas-body-perfume-bod-deoghqgythpfekyw.html): ₹189 at Flipkart
-- [Btag SF-400 Digital Kitchen Weighing Scale | 10Kg x 1g Precision | 1 year (6+6 m](https://imanjithreddy.github.io/pricedropped/deal/btag-sf-400-digital-kitchen-weighing-scale-10kg-x-1g-precision-1-year-b0d8y9fnf3.html): ₹189 at Amazon
