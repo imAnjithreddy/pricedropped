@@ -27,11 +27,20 @@ a{color:inherit;text-decoration:none}img{display:block}.wrap{max-width:1180px;ma
 .hero h1 em{font-style:italic;color:var(--red)}
 .hero p{margin:0 0 12px;color:var(--soft);max-width:440px}
 .facts{display:flex;gap:22px;font-size:13px;color:var(--soft);flex-wrap:wrap}.facts b{display:block;font-size:22px;color:var(--ink)}
-.tools{display:flex;gap:18px;align-items:center;flex-wrap:wrap;padding:16px 0;border-bottom:1px solid var(--rule)}
-.tools input{flex:1 1 260px;min-width:0;font:inherit;padding:10px 0;border:0;border-bottom:2px solid var(--ink);background:transparent;color:var(--ink);outline:none;border-radius:0}
-.tabs{display:flex;gap:16px;overflow-x:auto;scrollbar-width:none;font-size:14px;font-weight:600}.tabs::-webkit-scrollbar{display:none}
-.tabs button{font:inherit;background:none;border:0;padding:4px 0;color:var(--soft);cursor:pointer;white-space:nowrap;border-bottom:2px solid transparent}
-.tabs button.on{color:var(--ink);border-color:var(--red)}
+.tools{display:grid;grid-template-columns:minmax(0,1fr) auto;gap:12px 18px;align-items:center;padding:14px 0;border-bottom:1px solid var(--rule)}
+.tools input,.tools select{min-width:0;font:inherit;font-size:16px;padding:9px 0;border:0;border-bottom:2px solid var(--ink);background:transparent;
+color:var(--ink);outline:none;border-radius:0}
+.tools select{font-weight:600;cursor:pointer;padding-right:4px}
+.tabs{grid-column:1/-1;display:flex;gap:8px;overflow-x:auto;scrollbar-width:none;font-size:14px;font-weight:600;
+-webkit-mask-image:linear-gradient(90deg,#000 88%,transparent);mask-image:linear-gradient(90deg,#000 88%,transparent);padding-right:40px}
+.tabs::-webkit-scrollbar{display:none}
+.tabs button{font:inherit;background:var(--card);border:1px solid var(--rule);padding:7px 12px;color:var(--ink);cursor:pointer;white-space:nowrap;
+border-radius:2px;flex:none}
+.tabs button span{color:var(--soft);font-weight:400;margin-left:4px}
+.tabs button.on{background:var(--ink);color:var(--paper);border-color:var(--ink)}.tabs button.on span{color:var(--paper)}
+.count{grid-column:1/-1;font-size:13px;color:var(--soft);margin-top:-4px}
+@media (max-width:720px){.tools{position:sticky;top:0;z-index:5;background:var(--paper);margin:0 -16px;padding:10px 16px;
+grid-template-columns:minmax(0,1fr) 38%}.hero{padding:22px 0 16px}.hero p{font-size:15px}.facts b{font-size:18px}}
 .head{padding:30px 0 16px;border-bottom:1px solid var(--rule)}.head h1{font:800 clamp(28px,4.5vw,44px)/1.05 Fraunces,Georgia,serif;letter-spacing:-.02em;margin:0 0 8px}
 .head p{margin:0;color:var(--soft)}
 .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));border-left:1px solid var(--rule);margin:22px 0 40px}
@@ -47,7 +56,7 @@ text-transform:uppercase;padding:5px 10px}
 .t{font-size:14px;line-height:1.35;margin:4px 0 10px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
 .pr{margin-top:auto;display:flex;align-items:baseline;gap:8px;flex-wrap:wrap}
 .pr b{font:800 22px/1 Fraunces,Georgia,serif;letter-spacing:-.01em}.pr s{color:var(--soft);font-size:13px}.pr i{font-style:normal;font-size:13px;font-weight:800;color:var(--red)}
-.meta{display:flex;justify-content:space-between;gap:8px;margin-top:8px;font-size:12px;color:var(--soft)}
+.meta{display:flex;justify-content:space-between;gap:8px;margin-top:8px;font-size:12px;color:var(--soft)}.meta span{white-space:nowrap}
 .d.ended{opacity:.5}.d.ended .pr b{text-decoration:line-through}
 .empty{grid-column:1/-1;padding:40px 14px;color:var(--soft)}
 .crumbs{font-size:13px;color:var(--soft);padding-top:18px}.crumbs a{text-decoration:underline}
@@ -87,9 +96,11 @@ footer .links{display:flex;flex-wrap:wrap;gap:4px 14px}footer a{text-decoration:
 <main class="wrap"><section class="hero"><h1>Prices just <em>dropped.</em></h1>
 <div><p>Real drops only. We check every price against its own history before it goes up here, so a "70% off" that's
 always 70% off never makes the list.</p>
-<div class="facts"><span><b>15</b>listed today</span><span><b>15</b>live now</span><span><b>08:55</b>last check</span></div></div></section>
-<div class="tools"><input id="q" type="search" placeholder="Search: iphone, nike, shampoo…" aria-label="Search deals">
-<div class="tabs"><button data-f="all" class=on>All</button><button data-f="dream">Dream deals</button><button data-f="steal">Brand steals</button><button data-f="gadget">Gadgets</button><button data-f="fest">Sale deals</button><button data-f="free">Almost free</button><button data-f="u199">Under ₹199</button><button data-f="error">Price errors</button><button data-f="lowest">New lows</button><button data-f="Amazon">Amazon</button><button data-f="Myntra">Myntra</button><button data-f="Flipkart">Flipkart</button><button data-f="Cashify">Cashify</button></div></div>
+<div class="facts"><span><b>15</b>listed today</span><span><b>15</b>live now</span><span><b>09:03</b>last check</span></div></div></section>
+<div class="tools"><input id="q" type="search" placeholder="Search: iphone, nike…" aria-label="Search deals">
+<select id="shop" aria-label="Shop"><option value="">All shops</option><option value="Myntra">Myntra</option><option value="Amazon">Amazon</option><option value="Flipkart">Flipkart</option><option value="Cashify">Cashify</option></select>
+<div class="tabs" role="tablist"><button data-f="all" class=on>All</button><button data-f="dream">Dream deals</button><button data-f="steal">Brand steals</button><button data-f="gadget">Gadgets</button><button data-f="fest">Sale deals</button><button data-f="free">Almost free</button><button data-f="u199">Under ₹199</button><button data-f="error">Price errors</button><button data-f="lowest">New lows</button><button data-f="drop">Big drops</button><button data-f="loot">Loot</button></div>
+<div class="count" id="count" aria-live="polite"></div></div>
 <div class="grid"><a class="d" href="deal/amazon-brand-symbol-men-s-stretchable-formal-pants-b07yt13gn4.html" data-kind="fest" data-store="Amazon" data-price="649" data-ts="2026-10-21T08:45:00" data-q="amazon brand - symbol men&#x27;s stretchable formal pants amazon great indian festival">
 <div class="ph"><img loading="lazy" src="https://m.media-amazon.com/images/I/61fVMNqy3GL._SL500_.jpg?aicid=discounts-widgets-horizonte" alt="Amazon Brand - Symbol Men&#x27;s Stretchable Formal Pants"></div>
 <span class="tag">Festival deal · Amazon</span>
@@ -105,67 +116,67 @@ always 70% off never makes the list.</p>
 <span class="tag">Brand steal · Myntra</span>
 <span class="t">U.S. Polo Assn. Men Colourblocked Sneakers</span>
 <span class="pr"><b>₹1,189</b><s>₹3,499</s><i>−66%</i></span>
-<span class="meta"><span>4.4★ · 16.4k ratings</span><span class="ago">21 Oct</span></span></a><a class="d" href="deal/fire-boltt-talk-bluetooth-calling-smartwatch-1-39-tft-display-with-dua-b0cg1v9h8t.html" data-kind="gadget" data-store="Amazon" data-price="1099" data-ts="2026-10-21T07:00:00" data-q="fire-boltt talk bluetooth calling smartwatch, 1.39&quot; tft display with dual button, hands on voice assistance, 120 sports mo... amazon smartwatch">
+<span class="meta"><span>4.4★ · 16.4k</span><span class="ago">21 Oct</span></span></a><a class="d" href="deal/fire-boltt-talk-bluetooth-calling-smartwatch-1-39-tft-display-with-dua-b0cg1v9h8t.html" data-kind="gadget" data-store="Amazon" data-price="1099" data-ts="2026-10-21T07:00:00" data-q="fire-boltt talk bluetooth calling smartwatch, 1.39&quot; tft display with dual button, hands on voice assistance, 120 sports mo... amazon smartwatch">
 <div class="ph"><img loading="lazy" src="https://m.media-amazon.com/images/I/71QfqafDH2L._SL500_.jpg" alt="Fire-Boltt Talk Bluetooth Calling Smartwatch, 1.39&quot; TFT Display with Dual Button, Hands On Voice Ass"></div>
 <span class="tag">Gadget deal · Amazon</span>
 <span class="t">Fire-Boltt Talk Bluetooth Calling Smartwatch, 1.39&quot; TFT Display with Dual Button, Hands On Voice Assistance, 120 Sports Mo...</span>
 <span class="pr"><b>₹1,099</b><s>₹14,999</s><i>−93%</i></span>
-<span class="meta"><span>4.0★ · 42.2k ratings</span><span class="ago">21 Oct</span></span></a><a class="d" href="deal/boat-stone-350-pro-plus-speaker-8h-battery-tws-mode-voice-assistant-wi-acchnnggjfmcskte.html" data-kind="gadget" data-store="Flipkart" data-price="1399" data-ts="2026-10-21T07:00:00" data-q="boat stone 350 pro plus speaker,8h battery,tws mode,voice assistant,with mic,ipx5 16 w bluetooth speaker flipkart boat speaker">
+<span class="meta"><span>4.0★ · 42.2k</span><span class="ago">21 Oct</span></span></a><a class="d" href="deal/boat-stone-350-pro-plus-speaker-8h-battery-tws-mode-voice-assistant-wi-acchnnggjfmcskte.html" data-kind="gadget" data-store="Flipkart" data-price="1399" data-ts="2026-10-21T07:00:00" data-q="boat stone 350 pro plus speaker,8h battery,tws mode,voice assistant,with mic,ipx5 16 w bluetooth speaker flipkart boat speaker">
 <div class="ph"><img loading="lazy" src="https://rukminim2.flixcart.com/image/832/832/xif0q/speaker/x/p/x/-original-imahzrqtybagsx8y.jpeg?q=70" alt="boAt Stone 350 Pro Plus Speaker,8H Battery,TWS Mode,Voice Assistant,With Mic,IPX5 16 W Bluetooth Spe"></div>
 <span class="tag">Gadget deal · Flipkart</span>
 <span class="t">boAt Stone 350 Pro Plus Speaker,8H Battery,TWS Mode,Voice Assistant,With Mic,IPX5 16 W Bluetooth Speaker</span>
 <span class="pr"><b>₹1,399</b><s>₹4,990</s><i>−72%</i></span>
-<span class="meta"><span>4.3★ · 2.1L ratings</span><span class="ago">21 Oct</span></span></a><a class="d" href="deal/levis-men-512-slim-fit-light-fade-stretchable-jeans-25756722.html" data-kind="steal" data-store="Myntra" data-price="1079" data-ts="2026-10-21T06:45:00" data-q="levis men 512 slim fit light fade stretchable jeans myntra levis">
+<span class="meta"><span>4.3★ · 2.1L</span><span class="ago">21 Oct</span></span></a><a class="d" href="deal/levis-men-512-slim-fit-light-fade-stretchable-jeans-25756722.html" data-kind="steal" data-store="Myntra" data-price="1079" data-ts="2026-10-21T06:45:00" data-q="levis men 512 slim fit light fade stretchable jeans myntra levis">
 <div class="ph"><img loading="lazy" src="https://assets.myntassets.com/assets/images/25756722/2024/2/5/ce3ecdc5-3e4f-412e-b05a-e6beef9093581707127209656-Levis-Men-512-Slim-Fit-Light-Fade-Stretchable-Jeans-56317071-1.jpg" alt="Levis Men 512 Slim Fit Light Fade Stretchable Jeans"></div>
 <span class="tag">Brand steal · Myntra</span>
 <span class="t">Levis Men 512 Slim Fit Light Fade Stretchable Jeans</span>
 <span class="pr"><b>₹1,079</b><s>₹2,999</s><i>−64%</i></span>
-<span class="meta"><span>4.3★ · 36k ratings</span><span class="ago">21 Oct</span></span></a><a class="d" href="deal/puma-men-cream-coloured-and-orange-colourblocked-sneakers-17350718.html" data-kind="steal" data-store="Myntra" data-price="1124" data-ts="2026-10-21T06:15:00" data-q="puma men cream-coloured and orange colourblocked sneakers myntra puma">
+<span class="meta"><span>4.3★ · 36k</span><span class="ago">21 Oct</span></span></a><a class="d" href="deal/puma-men-cream-coloured-and-orange-colourblocked-sneakers-17350718.html" data-kind="steal" data-store="Myntra" data-price="1124" data-ts="2026-10-21T06:15:00" data-q="puma men cream-coloured and orange colourblocked sneakers myntra puma">
 <div class="ph"><img loading="lazy" src="https://assets.myntassets.com/assets/images/17350718/2025/3/11/be61b17a-4a16-4fa4-a873-71d8e22935261741693628534-Puma-Men-Cream-Coloured-and-Orange-Colourblocked-Sneakers-42-1.jpg" alt="Puma Men Cream-Coloured and Orange Colourblocked Sneakers"></div>
 <span class="tag">Brand steal · Myntra</span>
 <span class="t">Puma Men Cream-Coloured and Orange Colourblocked Sneakers</span>
 <span class="pr"><b>₹1,124</b><s>₹4,499</s><i>−75%</i></span>
-<span class="meta"><span>4.4★ · 1.1L ratings</span><span class="ago">21 Oct</span></span></a><a class="d" href="deal/apple-iphone-13-refurbished-apple-iphone-13-refu.html" data-kind="dream" data-store="Cashify" data-price="29499" data-ts="2026-10-21T05:45:00" data-q="apple iphone 13 - refurbished cashify refurb">
-<div class="ph"><img loading="lazy" src="https://s3ng.cashify.in/estore/658f05797b2d4354a604fe75c5c0499a.webp?w=160&amp;dpr=1.0" alt="Apple iPhone 13 - Refurbished"><span class="rf">Refurbished</span></div>
+<span class="meta"><span>4.4★ · 1.1L</span><span class="ago">21 Oct</span></span></a><a class="d" href="deal/apple-iphone-13-refurbished-apple-iphone-13-refu.html" data-kind="dream" data-store="Cashify" data-price="29499" data-ts="2026-10-21T05:45:00" data-q="apple iphone 13 - refurbished cashify refurb">
+<div class="ph"><img loading="lazy" src="https://s3ng.cashify.in/cashify/product/img/xxhdpi/96a67b00-9389.jpg?w=600&amp;dpr=1.0" alt="Apple iPhone 13 - Refurbished"><span class="rf">Refurbished</span></div>
 <span class="tag hot">Dream deal · Cashify</span>
 <span class="t">Apple iPhone 13 - Refurbished</span>
 <span class="pr"><b>₹29,499</b></span>
-<span class="meta"><span>4.4★ · 0 ratings</span><span class="ago">21 Oct</span></span></a><a class="d" href="deal/samsung-galaxy-s24-ultra-5g-refurbished-samsung-galaxy-s24-u.html" data-kind="dream" data-store="Cashify" data-price="66999" data-ts="2026-10-21T05:00:00" data-q="samsung galaxy s24 ultra 5g - refurbished cashify refurb">
+<span class="meta"><span></span><span class="ago">21 Oct</span></span></a><a class="d" href="deal/samsung-galaxy-s24-ultra-5g-refurbished-samsung-galaxy-s24-u.html" data-kind="dream" data-store="Cashify" data-price="66999" data-ts="2026-10-21T05:00:00" data-q="samsung galaxy s24 ultra 5g - refurbished cashify refurb">
 <div class="ph"><img loading="lazy" src="https://s3ng.cashify.in/estore/ff33c2adaee048018630f33add311f57.webp?w=160&amp;dpr=1.0" alt="Samsung Galaxy S24 Ultra 5G - Refurbished"><span class="rf">Refurbished</span></div>
 <span class="tag hot">Dream deal · Cashify</span>
 <span class="t">Samsung Galaxy S24 Ultra 5G - Refurbished</span>
 <span class="pr"><b>₹66,999</b></span>
-<span class="meta"><span>4.8★ · 0 ratings</span><span class="ago">21 Oct</span></span></a><a class="d" href="deal/sony-wh-1000xm5-wireless-noise-cancellation-with-ai-noise-reduction-bl-acchgbcbnhyfsvfz.html" data-kind="dream" data-store="Flipkart" data-price="19489" data-ts="2026-10-21T05:00:00" data-q="sony wh-1000xm5 wireless noise cancellation with ai noise reduction bluetooth flipkart sony wh 1000xm5">
+<span class="meta"><span></span><span class="ago">21 Oct</span></span></a><a class="d" href="deal/sony-wh-1000xm5-wireless-noise-cancellation-with-ai-noise-reduction-bl-acchgbcbnhyfsvfz.html" data-kind="dream" data-store="Flipkart" data-price="19489" data-ts="2026-10-21T05:00:00" data-q="sony wh-1000xm5 wireless noise cancellation with ai noise reduction bluetooth flipkart sony wh 1000xm5">
 <div class="ph"><img loading="lazy" src="https://rukminim2.flixcart.com/image/832/832/xif0q/headphone/d/5/v/-original-imahgr29e7fzcfgn.jpeg?q=70" alt="SONY WH-1000XM5 Wireless Noise Cancellation with AI Noise Reduction Bluetooth"></div>
 <span class="tag hot">Dream deal · Flipkart</span>
 <span class="t">SONY WH-1000XM5 Wireless Noise Cancellation with AI Noise Reduction Bluetooth</span>
 <span class="pr"><b>₹19,489</b><s>₹34,990</s><i>−44%</i></span>
-<span class="meta"><span>4.5★ · 831 ratings</span><span class="ago">21 Oct</span></span></a><a class="d" href="deal/puma-court-shatter-low-sneakers-31303722.html" data-kind="steal" data-store="Myntra" data-price="2099" data-ts="2026-10-21T05:00:00" data-q="puma court shatter low sneakers myntra puma">
+<span class="meta"><span>4.5★ · 831</span><span class="ago">21 Oct</span></span></a><a class="d" href="deal/puma-court-shatter-low-sneakers-31303722.html" data-kind="steal" data-store="Myntra" data-price="2099" data-ts="2026-10-21T05:00:00" data-q="puma court shatter low sneakers myntra puma">
 <div class="ph"><img loading="lazy" src="https://assets.myntassets.com/assets/images/2025/SEPTEMBER/26/sv1u50fk_4cfe59a84c6749b49bcd45a466176638.jpg" alt="Puma Court Shatter Low Sneakers"></div>
 <span class="tag">Brand steal · Myntra</span>
 <span class="t">Puma Court Shatter Low Sneakers</span>
 <span class="pr"><b>₹2,099</b><s>₹5,999</s><i>−65%</i></span>
-<span class="meta"><span>4.5★ · 21.4k ratings</span><span class="ago">21 Oct</span></span></a><a class="d" href="deal/nike-sportswear-chill-terry-women-s-mid-rise-french-terry-printed-shor-35919032.html" data-kind="steal" data-store="Myntra" data-price="1223" data-ts="2026-10-21T02:39:00" data-q="nike sportswear chill terry women&#x27;s mid-rise french terry printed shorts myntra nike">
+<span class="meta"><span>4.5★ · 21.4k</span><span class="ago">21 Oct</span></span></a><a class="d" href="deal/nike-sportswear-chill-terry-women-s-mid-rise-french-terry-printed-shor-35919032.html" data-kind="steal" data-store="Myntra" data-price="1223" data-ts="2026-10-21T02:39:00" data-q="nike sportswear chill terry women&#x27;s mid-rise french terry printed shorts myntra nike">
 <div class="ph"><img loading="lazy" src="https://assets.myntassets.com/assets/images/2025/JULY/23/fhlEdyhH_e5636090836540aa96e873fa6a4b2be4.jpg" alt="Nike Sportswear Chill Terry Women&#x27;s Mid-Rise French Terry Printed Shorts"></div>
 <span class="tag">Brand steal · Myntra</span>
 <span class="t">Nike Sportswear Chill Terry Women&#x27;s Mid-Rise French Terry Printed Shorts</span>
 <span class="pr"><b>₹1,223</b><s>₹3,495</s><i>−65%</i></span>
-<span class="meta"><span>4.8★ · 6 ratings</span><span class="ago">21 Oct</span></span></a><a class="d" href="deal/cadbury-oreo-chocolate-flavour-creme-sandwich-biscuit-41-75-g-b071wvybgf.html" data-kind="free" data-store="Amazon" data-price="10" data-ts="2026-10-21T02:29:00" data-q="cadbury oreo chocolate flavour creme sandwich biscuit, 41.75 g amazon chocolates">
+<span class="meta"><span>4.8★ · 6</span><span class="ago">21 Oct</span></span></a><a class="d" href="deal/cadbury-oreo-chocolate-flavour-creme-sandwich-biscuit-41-75-g-b071wvybgf.html" data-kind="free" data-store="Amazon" data-price="10" data-ts="2026-10-21T02:29:00" data-q="cadbury oreo chocolate flavour creme sandwich biscuit, 41.75 g amazon chocolates">
 <div class="ph"><img loading="lazy" src="https://m.media-amazon.com/images/I/61hEMqqoGxL._SL500_.jpg" alt="Cadbury Oreo Chocolate Flavour Creme Sandwich Biscuit, 41.75 g"></div>
 <span class="tag hot">Almost free · Amazon</span>
 <span class="t">Cadbury Oreo Chocolate Flavour Creme Sandwich Biscuit, 41.75 g</span>
 <span class="pr"><b>₹10</b><s>₹30</s><i>−67%</i></span>
-<span class="meta"><span>4.0★ · 8k ratings</span><span class="ago">21 Oct</span></span></a><a class="d" href="deal/axe-signature-mysterious-and-intense-deodorant-no-gas-body-perfume-bod-deoghqgythpfekyw.html" data-kind="loot" data-store="Flipkart" data-price="189" data-ts="2026-10-21T02:06:00" data-q="axe signature mysterious and intense deodorant no gas body perfume body spray  -  for men flipkart deodorant">
+<span class="meta"><span>4.0★ · 8k</span><span class="ago">21 Oct</span></span></a><a class="d" href="deal/axe-signature-mysterious-and-intense-deodorant-no-gas-body-perfume-bod-deoghqgythpfekyw.html" data-kind="loot" data-store="Flipkart" data-price="189" data-ts="2026-10-21T02:06:00" data-q="axe signature mysterious and intense deodorant no gas body perfume body spray  -  for men flipkart deodorant">
 <div class="ph"><img loading="lazy" src="https://rukminim2.flixcart.com/image/832/832/xif0q/deodorant/c/l/u/-original-imah32r6y3mssmtx.jpeg?q=70" alt="AXE Signature Mysterious and Intense Deodorant No Gas Body Perfume Body Spray  -  For Men"></div>
 <span class="tag">Loot · Flipkart</span>
 <span class="t">AXE Signature Mysterious and Intense Deodorant No Gas Body Perfume Body Spray  -  For Men</span>
 <span class="pr"><b>₹189</b><s>₹780</s><i>−76%</i></span>
-<span class="meta"><span>4.1★ · 82.4k ratings</span><span class="ago">21 Oct</span></span></a><a class="d" href="deal/btag-sf-400-digital-kitchen-weighing-scale-10kg-x-1g-precision-1-year-b0d8y9fnf3.html" data-kind="loot" data-store="Amazon" data-price="189" data-ts="2026-10-21T02:02:00" data-q="btag sf-400 digital kitchen weighing scale | 10kg x 1g precision | 1 year (6+6 months) warranty | food scale with lcd disp... amazon kitchen tools">
+<span class="meta"><span>4.1★ · 82.4k</span><span class="ago">21 Oct</span></span></a><a class="d" href="deal/btag-sf-400-digital-kitchen-weighing-scale-10kg-x-1g-precision-1-year-b0d8y9fnf3.html" data-kind="loot" data-store="Amazon" data-price="189" data-ts="2026-10-21T02:02:00" data-q="btag sf-400 digital kitchen weighing scale | 10kg x 1g precision | 1 year (6+6 months) warranty | food scale with lcd disp... amazon kitchen tools">
 <div class="ph"><img loading="lazy" src="https://m.media-amazon.com/images/I/51WMzZq09cL._SL500_.jpg" alt="Btag SF-400 Digital Kitchen Weighing Scale | 10Kg x 1g Precision | 1 year (6+6 months) warranty | Fo"></div>
 <span class="tag">Loot · Amazon</span>
 <span class="t">Btag SF-400 Digital Kitchen Weighing Scale | 10Kg x 1g Precision | 1 year (6+6 months) warranty | Food Scale with LCD Disp...</span>
 <span class="pr"><b>₹189</b><s>₹999</s><i>−81%</i></span>
-<span class="meta"><span>4.0★ · 6.2k ratings</span><span class="ago">21 Oct</span></span></a></div></main>
+<span class="meta"><span>4.0★ · 6.2k</span><span class="ago">21 Oct</span></span></a></div></main>
 <footer><div class="wrap cols">
 <div><h3>Price Dropped</h3><p>We check prices at Amazon, Flipkart, Myntra, Snapdeal and 60+ brand and specialist stores every two
 hours and list only real drops: price errors, new lows, big-brand markdowns and useful things for almost nothing.
@@ -173,16 +184,25 @@ Prices were right when listed and change often; the shop's page has the current 
 at no cost to you.</p>
 <p>Alerts first on Telegram: <a href="https://t.me/pricedroppedhq">@pricedroppedhq</a> · <a href="about.html">About</a> · <a href="privacy.html">Privacy</a>
 · <a href="terms.html">Terms</a> · <a href="https://imanjithreddy.github.io/pricedropped/feed.xml">RSS</a></p></div>
-<div><h3>Shops</h3><div class="links"><a href="store/amazon.html">Amazon</a><a href="store/myntra.html">Myntra</a><a href="store/flipkart.html">Flipkart</a><a href="store/cashify.html">Cashify</a></div></div>
-<div><h3>Categories</h3><div class="links"><a href="category/refurb.html">Refurb</a><a href="category/puma.html">Puma</a><a href="category/great-indian-festival.html">Great Indian Festival</a><a href="category/sony-wh-1000xm5.html">Sony Wh 1000Xm5</a><a href="category/kitchen-tools.html">Kitchen Tools</a><a href="category/deodorant.html">Deodorant</a><a href="category/chocolates.html">Chocolates</a><a href="category/smartwatch.html">Smartwatch</a><a href="category/boat-speaker.html">Boat Speaker</a><a href="category/levis.html">Levis</a><a href="category/mega-festival-deal.html">Mega Festival Deal</a><a href="category/u-s-polo-assn.html">U.S. Polo Assn.</a><a href="category/nike.html">Nike</a></div></div>
+<div><h3>Shops</h3><div class="links"><a href="store/myntra.html">Myntra</a><a href="store/amazon.html">Amazon</a><a href="store/flipkart.html">Flipkart</a><a href="store/cashify.html">Cashify</a></div></div>
+<div><h3>Categories</h3><div class="links"><a href="category/puma.html">Puma</a><a href="category/refurb.html">Refurb</a><a href="category/mega-festival-deal.html">Mega Festival Deal</a><a href="category/smartwatch.html">Smartwatch</a><a href="category/great-indian-festival.html">Great Indian Festival</a><a href="category/chocolates.html">Chocolates</a><a href="category/deodorant.html">Deodorant</a><a href="category/u-s-polo-assn.html">U.S. Polo Assn.</a><a href="category/boat-speaker.html">Boat Speaker</a><a href="category/kitchen-tools.html">Kitchen Tools</a><a href="category/sony-wh-1000xm5.html">Sony Wh 1000Xm5</a><a href="category/nike.html">Nike</a><a href="category/levis.html">Levis</a></div></div>
 </div></footer>
 <script>
 const cards=[...document.querySelectorAll('.d')];
 const ago=t=>{const m=(Date.now()-new Date(t))/6e4;return m<60?Math.max(1,Math.round(m))+' min ago':m<1440?Math.round(m/60)+' h ago':Math.round(m/1440)+' d ago'};
 cards.forEach(c=>{const s=c.querySelector('.ago');if(s&&c.dataset.ts)s.textContent=ago(c.dataset.ts)});
-let f='all',q='';
-function run(){cards.forEach(c=>{const d=c.dataset;
- c.hidden=!((f==='all'||d.kind===f||d.store===f||(f==='u199'&&+d.price<=199))&&(!q||d.q.includes(q)))})}
-document.querySelectorAll('.tabs button').forEach(b=>b.onclick=()=>{document.querySelectorAll('.tabs button').forEach(x=>x.classList.remove('on'));b.classList.add('on');f=b.dataset.f;run()});
+let f='all',shop='',q='';
+const fits=(d,k)=>k==='all'||d.kind===k||(k==='u199'&&+d.price<=199);
+const count=document.getElementById('count');
+function run(){let n=0;cards.forEach(c=>{const d=c.dataset;
+ c.hidden=!(fits(d,f)&&(!shop||d.store===shop)&&(!q||d.q.includes(q)));if(!c.hidden)n++});
+ if(count)count.textContent=n?n+(n===1?' deal':' deals'):'Nothing matches. Try another filter.'}
+const tabs=[...document.querySelectorAll('.tabs button')];
+tabs.forEach(b=>{const k=b.dataset.f,n=cards.filter(c=>fits(c.dataset,k)).length;   // hide filters with no deals
+ if(!n&&k!=='all')b.hidden=true;else b.insertAdjacentHTML('beforeend','<span>'+n+'</span>');
+ b.onclick=()=>{tabs.forEach(x=>x.classList.remove('on'));b.classList.add('on');f=k;run();
+  b.scrollIntoView({inline:'center',block:'nearest',behavior:'smooth'})}});
+const sel=document.getElementById('shop');if(sel)sel.onchange=()=>{shop=sel.value;run()};
 const s=document.getElementById('q');if(s)s.oninput=()=>{q=s.value.toLowerCase().trim();run()};
+if(cards.length&&count)run();
 </script></body></html>
