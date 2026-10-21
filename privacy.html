@@ -106,7 +106,7 @@ footer .cols{display:grid;grid-template-columns:2fr 1fr 1fr;gap:28px}@media (max
 footer h3{font:800 15px Fraunces,Georgia,serif;color:var(--ink);margin:0 0 8px}
 footer .links{display:flex;flex-wrap:wrap;gap:4px 14px}footer a{text-decoration:underline}
 </style></head>
-<body class="">
+<body class="" data-page="privacy">
 <header class="top"><div class="wrap"><a class="logo" href="index.html">Price <b>Dropped</b></a><nav><a href="index.html">Latest</a><a href="watch.html">Price watch</a><a href="loot.html">Under ₹199</a><a href="store/myntra.html">Myntra</a><a href="store/amazon.html">Amazon</a><a href="store/flipkart.html">Flipkart</a></nav>
 <a class="alerts" href="https://t.me/pricedroppedhq" rel="noopener">Telegram alerts</a></div></header>
 <main class="wrap"><div class="head"><h1>Privacy policy</h1></div><div class="prose">
@@ -116,7 +116,14 @@ Affiliate links may let the shop or an affiliate network (such as Cuelinks) reco
 <h2>Cookies and ads</h2><p>We may show ads from third parties such as Google. They may use cookies to show ads based
 on your visits to this and other sites. You can turn off personalised ads at
 <a href="https://adssettings.google.com">adssettings.google.com</a>.</p>
-<h2>Hosting</h2><p>The site is hosted on GitHub Pages, which may keep standard server logs (such as IP addresses) for security.</p>
+<h2>Measuring visits</h2><p>To learn which deals and pages are useful, we use Google Analytics and Microsoft
+Clarity. They record pages viewed, clicks (such as which shop a deal link went to), searches typed into our search
+box, and roughly where and on what device a visit came from, using cookies or similar technology. Clarity can replay
+a visit's scrolling and clicks to show us how the pages are used; it doesn't record what you type into other sites.
+We don't use this to identify you. You can block it with your browser's tracking protection or an ad blocker. See
+<a href="https://policies.google.com/privacy">Google's</a> and
+<a href="https://privacy.microsoft.com/privacystatement">Microsoft's</a> privacy statements.</p>
+<h2>Hosting</h2><p>The site is hosted on Vercel and GitHub Pages, which may keep standard server logs (such as IP addresses) for security.</p>
 <p>Questions: message us on Telegram at <a href="https://t.me/pricedroppedhq">@pricedroppedhq</a>. Last updated 21 October 2026.</p></div></main>
 <footer><div class="wrap cols">
 <div><h3>Price Dropped</h3><p>We check prices at Amazon, Flipkart, Myntra, Snapdeal and 60+ brand and specialist stores every two
@@ -126,7 +133,7 @@ at no cost to you.</p>
 <p>Alerts first on Telegram: <a href="https://t.me/pricedroppedhq">@pricedroppedhq</a> · <a href="about.html">About</a> · <a href="privacy.html">Privacy</a>
 · <a href="terms.html">Terms</a> · <a href="https://imanjithreddy.github.io/pricedropped/feed.xml">RSS</a></p></div>
 <div><h3>Shops</h3><div class="links"><a href="store/amazon.html">Amazon</a><a href="store/flipkart.html">Flipkart</a><a href="store/myntra.html">Myntra</a><a href="store/cashify.html">Cashify</a><a href="store/crep-dog-crew.html">Crep Dog Crew</a><a href="store/tata-cliq.html">Tata CLiQ</a></div></div>
-<div><h3>Categories</h3><div class="links"><a href="category/sale-deals.html">Sale deals</a><a href="category/boat-speaker.html">Boat Speaker</a><a href="category/puma.html">Puma</a><a href="category/u-s-polo-assn.html">U.S. Polo Assn.</a><a href="category/refurbished-phones.html">Refurbished phones</a><a href="category/apple-watch.html">Apple Watch</a><a href="category/crep-dog-crew.html">Crep Dog Crew</a><a href="category/nike.html">Nike</a><a href="category/levis.html">Levis</a><a href="category/watches.html">Watches</a><a href="category/kitchen-tools.html">Kitchen Tools</a><a href="category/power-bank-20000mah.html">Power Bank 20000Mah</a><a href="category/smartwatch.html">Smartwatch</a><a href="category/samsung-tablet.html">Samsung Tablet</a><a href="category/deodorant.html">Deodorant</a><a href="category/ray-ban.html">Ray-Ban</a></div></div>
+<div><h3>Categories</h3><div class="links"><a href="category/sale-deals.html">Sale deals</a><a href="category/boat-speaker.html">Boat Speaker</a><a href="category/u-s-polo-assn.html">U.S. Polo Assn.</a><a href="category/puma.html">Puma</a><a href="category/refurbished-phones.html">Refurbished phones</a><a href="category/crep-dog-crew.html">Crep Dog Crew</a><a href="category/kitchen-tools.html">Kitchen Tools</a><a href="category/watches.html">Watches</a><a href="category/sony-wh-1000xm5.html">Sony WH-1000XM5</a><a href="category/samsung-tablet.html">Samsung Tablet</a><a href="category/ray-ban.html">Ray-Ban</a><a href="category/nike.html">Nike</a><a href="category/power-bank-20000mah.html">Power Bank 20000Mah</a><a href="category/chocolates.html">Chocolates</a><a href="category/levis.html">Levis</a><a href="category/apple-watch.html">Apple Watch</a></div></div>
 </div></footer>
 <script>
 const cards=[...document.querySelectorAll('.d')];
@@ -146,4 +153,20 @@ tabs.forEach(b=>{const k=b.dataset.f,n=cards.filter(c=>fits(c.dataset,k)).length
 const sel=document.getElementById('shop');if(sel)sel.onchange=()=>{shop=sel.value;run()};
 const s=document.getElementById('q');if(s)s.oninput=()=>{q=s.value.toLowerCase().trim();run()};
 if(cards.length&&count)run();
+
+const ev=(name,p)=>{p=p||{};if(window.gtag)gtag('event',name,p);
+ if(window.clarity){clarity('event',name);for(const k in p)if(p[k]!==undefined&&p[k]!=='')clarity('set',name+'_'+k,String(p[k]))}};
+const where=document.body.dataset.page||'other';
+document.addEventListener('click',x=>{const a=x.target.closest('a');if(!a)return;
+ if(a.dataset.ev==='buy'){ev('buy_click',{deal:a.dataset.deal,store:a.dataset.store,price:+a.dataset.price,kind:a.dataset.kind,
+  place:a.dataset.place,ended:a.dataset.ended==='1',page_type:where,transport_type:'beacon'});return}
+ if(a.classList.contains('d')){const all=[...document.querySelectorAll('.d:not([hidden])')];
+  ev('deal_open',{deal:(a.getAttribute('href')||'').split('/').pop().replace('.html',''),store:a.dataset.store,kind:a.dataset.kind,
+   price:+a.dataset.price,position:all.indexOf(a)+1,page_type:where,filter:window.pdFilter||'all'});return}
+ if(/t\.me\//.test(a.href)){ev('telegram_click',{place:a.className||'link',page_type:where,transport_type:'beacon'});return}
+ if(a.host&&a.host!==location.host)ev('outbound_click',{host:a.host,page_type:where,transport_type:'beacon'})});
+document.querySelectorAll('.tabs button').forEach(b=>b.addEventListener('click',()=>{window.pdFilter=b.dataset.f;ev('filter',{filter:b.dataset.f,page_type:where})}));
+const sh=document.getElementById('shop');if(sh)sh.addEventListener('change',()=>ev('shop_filter',{store:sh.value||'all',page_type:where}));
+const qq=document.getElementById('q');let qt;if(qq)qq.addEventListener('input',()=>{clearTimeout(qt);qt=setTimeout(()=>{
+ const t=qq.value.toLowerCase().trim();if(t.length>1)ev('search',{search_term:t,results:document.querySelectorAll('.d:not([hidden])').length,page_type:where})},1200)});
 </script></body></html>
