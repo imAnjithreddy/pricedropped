@@ -3,7 +3,7 @@
 > Real price drops, price errors, brand steals and the lowest prices of popular products (iPhone, Galaxy, AirPods,
 > PlayStation...) in India, new and refurbished. Prices are checked every two hours at Amazon, Flipkart, Myntra,
 > Snapdeal, Tata CLiQ, Cashify and 60+ brand stores, and every deal is checked against that product's own price
-> history before it's listed. Last updated 22 October 2026, 11:39 IST.
+> history before it's listed. Last updated 22 October 2026, 12:15 IST.
 
 Prices change fast: each page says when it was checked. Refurbished items are always labelled. Some links are
 affiliate links. Free alerts: https://t.me/pricedroppedhq
@@ -36,9 +36,7 @@ affiliate links. Free alerts: https://t.me/pricedroppedhq
 - [How we find deals](https://imanjithreddy.github.io/pricedropped/about.html)
 
 ## Live deals right now
-- [Tefal 2200 W Induction Cooktop Touch Panel](https://imanjithreddy.github.io/pricedropped/deal/tefal-2200-w-induction-cooktop-touch-panel-icthggzpwjqhdr7e.html): ₹1,349 at Flipkart
 - [MJE Men Cotton Blend Ankle Length Socks](https://imanjithreddy.github.io/pricedropped/deal/mje-men-cotton-blend-ankle-length-socks-39617909.html): ₹33 at Myntra
-- [REDMI 15 5G (Midnight Black, 128 GB)](https://imanjithreddy.github.io/pricedropped/deal/redmi-15-5g-midnight-black-128-gb-mobhfh9544vvmqnn.html): ₹21,875 at Flipkart
 - [boAt Stone Arc, 58mm Drivers, 12H Battery, RGB LEDs, Built-in Mic, TWS Feature 2](https://imanjithreddy.github.io/pricedropped/deal/boat-stone-arc-58mm-drivers-12h-battery-rgb-leds-built-in-mic-tws-feat-acchdzr8emgfqkyz.html): ₹1,649 at Flipkart
 - [Nutri Blend Thunder Sipper Lid, Spare part,](https://imanjithreddy.github.io/pricedropped/deal/nutri-blend-thunder-sipper-lid-spare-part-6851862954161.html): ₹49 at Wonderchef
 - [Puma Smashic Women Comfort Casual Sneakers](https://imanjithreddy.github.io/pricedropped/deal/puma-smashic-women-comfort-casual-sneakers-21766804.html): ₹1,574 at Myntra
@@ -56,3 +54,5 @@ affiliate links. Free alerts: https://t.me/pricedroppedhq
 - [Red Tape Men Pull On Clogs](https://imanjithreddy.github.io/pricedropped/deal/red-tape-men-pull-on-clogs-b0cswkmk1j.html): ₹498 at Amazon
 - [U.S. Polo Assn. Men Sneakers](https://imanjithreddy.github.io/pricedropped/deal/u-s-polo-assn-men-sneakers-42757363.html): ₹1,189 at Myntra
 - [Mothca tempered glass for Samsung Galaxy S25 | Fingerprint & Smudge Resistant , ](https://imanjithreddy.github.io/pricedropped/deal/mothca-tempered-glass-for-samsung-galaxy-s25-fingerprint-smudge-resist-b0hjc6z5qz.html): ₹99 at Amazon
+- [U.S. Polo Assn. Men CLARKIN 6.0 Colourblocked Sneakers](https://imanjithreddy.github.io/pricedropped/deal/u-s-polo-assn-men-clarkin-6-0-colourblocked-sneakers-33772194.html): ₹1,121 at Myntra
+- [Puma Smashic Comfort Casual Sneakers](https://imanjithreddy.github.io/pricedropped/deal/puma-smashic-comfort-casual-sneakers-21767244.html): ₹1,664 at Myntra
