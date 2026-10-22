@@ -3,7 +3,7 @@
 > Real price drops, price errors, brand steals and the lowest prices of popular products (iPhone, Galaxy, AirPods,
 > PlayStation...) in India, new and refurbished. Prices are checked every two hours at Amazon, Flipkart, Myntra,
 > Snapdeal, Tata CLiQ, Cashify and 60+ brand stores, and every deal is checked against that product's own price
-> history before it's listed. Last updated 22 October 2026, 07:53 IST.
+> history before it's listed. Last updated 22 October 2026, 08:13 IST.
 
 Prices change fast: each page says when it was checked. Refurbished items are always labelled. Some links are
 affiliate links. Free alerts: https://t.me/pricedroppedhq
@@ -36,6 +36,7 @@ affiliate links. Free alerts: https://t.me/pricedroppedhq
 - [How we find deals](https://imanjithreddy.github.io/pricedropped/about.html)
 
 ## Live deals right now
+- [Puma Smashic Women Comfort Casual Sneakers](https://imanjithreddy.github.io/pricedropped/deal/puma-smashic-women-comfort-casual-sneakers-21766804.html): ₹1,574 at Myntra
 - [boAt 20000 mAh 22.5 W Slim Pocket Size Power Bank](https://imanjithreddy.github.io/pricedropped/deal/boat-20000-mah-22-5-w-slim-pocket-size-power-bank-pwbgvjfpsnyfd72b.html): ₹1,399 at Flipkart
 - [BAJAJ 9 W Basic Round B22 LED Bulb](https://imanjithreddy.github.io/pricedropped/deal/bajaj-9-w-basic-round-b22-led-bulb-blbgygctuszvspn8.html): ₹46 at Flipkart
 - [Blade Boost Trimmer Oil](https://imanjithreddy.github.io/pricedropped/deal/blade-boost-trimmer-oil-8936649818266.html): ₹49 at Bombay Shaving Company
@@ -55,4 +56,3 @@ affiliate links. Free alerts: https://t.me/pricedroppedhq
 - [Apple iPhone 15 - Refurbished](https://imanjithreddy.github.io/pricedropped/deal/apple-iphone-15-refurbished-apple-iphone-15-refu.html): ₹43,899 at Cashify (refurbished)
 - [Apple iPhone 14 - Refurbished](https://imanjithreddy.github.io/pricedropped/deal/apple-iphone-14-refurbished-apple-iphone-14-refu.html): ₹35,799 at Cashify (refurbished)
 - [adidas Adistar Jellyfish Pharrell Williams Red](https://imanjithreddy.github.io/pricedropped/deal/adidas-adistar-jellyfish-pharrell-williams-red-10330076610806.html): ₹39,999 at Crep Dog Crew
-- [Ray-Ban Green UV Protection Oval Unisex Sunglasses](https://imanjithreddy.github.io/pricedropped/deal/ray-ban-green-uv-protection-oval-unisex-sunglasses-mp000000028634945.html): ₹10,701 at Tata CLiQ
