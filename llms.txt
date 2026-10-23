@@ -3,7 +3,7 @@
 > Real price drops, price errors, brand steals and the lowest prices of popular products (iPhone, Galaxy, AirPods,
 > PlayStation...) in India, new and refurbished. Prices are checked every two hours at Amazon, Flipkart, Myntra,
 > Snapdeal, Tata CLiQ, Cashify and 60+ brand stores, and every deal is checked against that product's own price
-> history before it's listed. Last updated 23 October 2026, 14:41 IST.
+> history before it's listed. Last updated 23 October 2026, 16:35 IST.
 
 Prices change fast: each page says when it was checked. Refurbished items are always labelled. Some links are
 affiliate links. Free alerts: https://t.me/pricedroppedhq
@@ -36,6 +36,7 @@ affiliate links. Free alerts: https://t.me/pricedroppedhq
 - [How we find deals](https://imanjithreddy.github.io/pricedropped/about.html)
 
 ## Live deals right now
+- [Rexona Shower Fresh Underarm Roll On Deodorant For Women, Antiperspirant, Remove](https://imanjithreddy.github.io/pricedropped/deal/rexona-shower-fresh-underarm-roll-on-deodorant-for-women-antiperspiran-b018hshijm.html): ₹49 at Amazon
 - [Eveready 10W LED Bulb Pack of 2 with Free 2 Batteries](https://imanjithreddy.github.io/pricedropped/deal/eveready-10w-led-bulb-pack-of-2-with-free-2-batteries-blbeh3bhqwfp36b5.html): ₹111 at Flipkart
 - [Moisturising Sunscreen Gel for Men | SPF50 PA++++ (20ml)](https://imanjithreddy.github.io/pricedropped/deal/moisturising-sunscreen-gel-for-men-spf50-pa-20ml-8810101244100.html): ₹49 at The Man Company
 - [Amazon Basics AAA Rechargeable 750 mAh Batteries](https://imanjithreddy.github.io/pricedropped/deal/amazon-basics-aaa-rechargeable-750-mah-batteries-b0cz7ll9cw.html): ₹149 at Amazon
@@ -55,4 +56,3 @@ affiliate links. Free alerts: https://t.me/pricedroppedhq
 - [BAJAJ 9 W Basic Round B22 LED Bulb](https://imanjithreddy.github.io/pricedropped/deal/bajaj-9-w-basic-round-b22-led-bulb-blbgygctuszvspn8.html): ₹46 at Flipkart
 - [Blade Boost Trimmer Oil](https://imanjithreddy.github.io/pricedropped/deal/blade-boost-trimmer-oil-8936649818266.html): ₹49 at Bombay Shaving Company
 - [boAt Wave Call 3 Smartwatch 1.83” HD Display with Animated Watch Faces; BT Calli](https://imanjithreddy.github.io/pricedropped/deal/boat-wave-call-3-smartwatch-1-83-hd-display-with-animated-watch-faces-b0flf44gtq.html): ₹1,199 at Amazon
-- [Nora Shades  Reversible Solid Cushion Cover 60X60 Cm in Tan Colour](https://imanjithreddy.github.io/pricedropped/deal/nora-shades-reversible-solid-cushion-cover-60x60-cm-in-tan-colour-9367703290135.html): ₹49 at HomeTown
