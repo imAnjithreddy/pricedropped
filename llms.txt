@@ -3,7 +3,7 @@
 > Real price drops, price errors, brand steals and the lowest prices of popular products (iPhone, Galaxy, AirPods,
 > PlayStation...) in India, new and refurbished. Prices are checked every two hours at Amazon, Flipkart, Myntra,
 > Snapdeal, Tata CLiQ, Cashify and 60+ brand stores, and every deal is checked against that product's own price
-> history before it's listed. Last updated 23 October 2026, 12:30 IST.
+> history before it's listed. Last updated 23 October 2026, 12:55 IST.
 
 Prices change fast: each page says when it was checked. Refurbished items are always labelled. Some links are
 affiliate links. Free alerts: https://t.me/pricedroppedhq
@@ -36,6 +36,7 @@ affiliate links. Free alerts: https://t.me/pricedroppedhq
 - [How we find deals](https://imanjithreddy.github.io/pricedropped/about.html)
 
 ## Live deals right now
+- [Amazon Basics AAA Rechargeable 750 mAh Batteries](https://imanjithreddy.github.io/pricedropped/deal/amazon-basics-aaa-rechargeable-750-mah-batteries-b0cz7ll9cw.html): ₹149 at Amazon
 - [boAt Stone Arc Pro, Spatial Audio, 58mm Drivers, 12H Battery, RGB LEDs & App Sup](https://imanjithreddy.github.io/pricedropped/deal/boat-stone-arc-pro-spatial-audio-58mm-drivers-12h-battery-rgb-leds-app-acchdyd8fus4zz3q.html): ₹1,799 at Flipkart
 - [Wipro 10 W Basic Standard B22 LED Bulb](https://imanjithreddy.github.io/pricedropped/deal/wipro-10-w-basic-standard-b22-led-bulb-blbfj8zbfdag9dgv.html): ₹49 at Flipkart
 - [Amazon Brand - Solimo Adult Bed Bath Wipes](https://imanjithreddy.github.io/pricedropped/deal/amazon-brand-solimo-adult-bed-bath-wipes-b0cv7hs2sm.html): ₹225 at Amazon
@@ -55,4 +56,3 @@ affiliate links. Free alerts: https://t.me/pricedroppedhq
 - [Nora Shades  Reversible Solid Cushion Cover 60X60 Cm in Tan Colour](https://imanjithreddy.github.io/pricedropped/deal/nora-shades-reversible-solid-cushion-cover-60x60-cm-in-tan-colour-9367703290135.html): ₹49 at HomeTown
 - [Crompton Dyna Ray 9 Watt LED Bulb Cool Day Light | Pack of 1 | B22 Base, Energy-](https://imanjithreddy.github.io/pricedropped/deal/crompton-dyna-ray-9-watt-led-bulb-cool-day-light-pack-of-1-b22-base-en-b0b6fjnh97.html): ₹43 at Amazon
 - [boAt 20000 mAh 22.5 W Compact Pocket Size Power Bank](https://imanjithreddy.github.io/pricedropped/deal/boat-20000-mah-22-5-w-compact-pocket-size-power-bank-pwbgr4kgumszqmfz.html): ₹1,399 at Flipkart
-- [Red Tape Mens Lightweight EVA Clogs Slip-On Comfortable Casual Footwear with Adj](https://imanjithreddy.github.io/pricedropped/deal/red-tape-mens-lightweight-eva-clogs-slip-on-comfortable-casual-footwea-b0g8t997ng.html): ₹580 at Amazon
