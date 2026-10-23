@@ -3,7 +3,7 @@
 > Real price drops, price errors, brand steals and the lowest prices of popular products (iPhone, Galaxy, AirPods,
 > PlayStation...) in India, new and refurbished. Prices are checked every two hours at Amazon, Flipkart, Myntra,
 > Snapdeal, Tata CLiQ, Cashify and 60+ brand stores, and every deal is checked against that product's own price
-> history before it's listed. Last updated 23 October 2026, 08:15 IST.
+> history before it's listed. Last updated 23 October 2026, 08:34 IST.
 
 Prices change fast: each page says when it was checked. Refurbished items are always labelled. Some links are
 affiliate links. Free alerts: https://t.me/pricedroppedhq
@@ -36,6 +36,7 @@ affiliate links. Free alerts: https://t.me/pricedroppedhq
 - [How we find deals](https://imanjithreddy.github.io/pricedropped/about.html)
 
 ## Live deals right now
+- [Zebronics Foldable Mobile & Tablet Stand, Multi-Angle Adjustable, Supports Up to](https://imanjithreddy.github.io/pricedropped/deal/zebronics-foldable-mobile-tablet-stand-multi-angle-adjustable-supports-b0gq39kr5w.html): ₹89 at Amazon
 - [Skechers Men Textured Go Run Consistent Running & Training Shoes](https://imanjithreddy.github.io/pricedropped/deal/skechers-men-textured-go-run-consistent-running-training-shoes-25921930.html): ₹1,924 at Myntra
 - [Apple iPhone 16 Pro - Refurbished](https://imanjithreddy.github.io/pricedropped/deal/apple-iphone-16-pro-refurbished-apple-iphone-16-pro.html): ₹77,099 at Cashify (refurbished)
 - [MJE Men Cotton Blend Ankle Length Socks](https://imanjithreddy.github.io/pricedropped/deal/mje-men-cotton-blend-ankle-length-socks-39617909.html): ₹33 at Myntra
@@ -55,4 +56,3 @@ affiliate links. Free alerts: https://t.me/pricedroppedhq
 - [PHILIPS WiZ Neo 12W B22 Wi-Fi & Bluetooth LED Smart Bulb with Music Sync, Compat](https://imanjithreddy.github.io/pricedropped/deal/philips-wiz-neo-12w-b22-wi-fi-bluetooth-led-smart-bulb-with-music-sync-b0chydwz77.html): ₹499 at Amazon
 - [Red Tape Men Pull On Clogs](https://imanjithreddy.github.io/pricedropped/deal/red-tape-men-pull-on-clogs-b0cswkmk1j.html): ₹498 at Amazon
 - [U.S. Polo Assn. Men Sneakers](https://imanjithreddy.github.io/pricedropped/deal/u-s-polo-assn-men-sneakers-42757363.html): ₹1,189 at Myntra
-- [Mothca tempered glass for Samsung Galaxy S25 | Fingerprint & Smudge Resistant , ](https://imanjithreddy.github.io/pricedropped/deal/mothca-tempered-glass-for-samsung-galaxy-s25-fingerprint-smudge-resist-b0hjc6z5qz.html): ₹99 at Amazon
