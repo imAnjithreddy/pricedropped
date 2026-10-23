@@ -3,7 +3,7 @@
 > Real price drops, price errors, brand steals and the lowest prices of popular products (iPhone, Galaxy, AirPods,
 > PlayStation...) in India, new and refurbished. Prices are checked every two hours at Amazon, Flipkart, Myntra,
 > Snapdeal, Tata CLiQ, Cashify and 60+ brand stores, and every deal is checked against that product's own price
-> history before it's listed. Last updated 23 October 2026, 20:54 IST.
+> history before it's listed. Last updated 23 October 2026, 22:24 IST.
 
 Prices change fast: each page says when it was checked. Refurbished items are always labelled. Some links are
 affiliate links. Free alerts: https://t.me/pricedroppedhq
@@ -36,10 +36,12 @@ affiliate links. Free alerts: https://t.me/pricedroppedhq
 - [How we find deals](https://imanjithreddy.github.io/pricedropped/about.html)
 
 ## Live deals right now
+- [JBL Partybox Encore Essential, Dynamic Light Show ,6Hrs Playtime,Built-in Powerb](https://imanjithreddy.github.io/pricedropped/deal/jbl-partybox-encore-essential-dynamic-light-show-6hrs-playtime-built-i-accgdjrrkzzwj2kg.html): ₹13,999 at Flipkart
+- [TCL T6D 138.71 cm (55 inch) QLED Ultra HD (4K) Smart Google TV 2026 Edition with](https://imanjithreddy.github.io/pricedropped/deal/tcl-t6d-138-71-cm-55-inch-qled-ultra-hd-4k-smart-google-tv-2026-editio-tvshm44hubrapygv.html): ₹34,990 at Flipkart
+- [Classmate Pulse Single Subject Spiral Notebook-Pack of 1|Single Line|200 Pages|2](https://imanjithreddy.github.io/pricedropped/deal/classmate-pulse-single-subject-spiral-notebook-pack-of-1-single-line-2-b01n5p1w5g.html): ₹79 at Amazon
 - [Blanc After Shave | Aloe Vera & Tea Tree 50ml](https://imanjithreddy.github.io/pricedropped/deal/blanc-after-shave-aloe-vera-tea-tree-50ml-8509760536772.html): ₹49 at The Man Company
 - [Portronics Konnect L POR-1403 Fast Charging 3A Type-C Cable 1.2 Meter with Charg](https://imanjithreddy.github.io/pricedropped/deal/portronics-konnect-l-por-1403-fast-charging-3a-type-c-cable-1-2-meter-b09kh58jzr.html): ₹134 at Amazon
 - [Amazon Basics Long-Lasting CR2032 Lithium Coin Batteries | 3V Voltage | Versatil](https://imanjithreddy.github.io/pricedropped/deal/amazon-basics-long-lasting-cr2032-lithium-coin-batteries-3v-voltage-ve-b0cyldq1d3.html): ₹85 at Amazon
-- [Rexona Shower Fresh Underarm Roll On Deodorant For Women, Antiperspirant, Remove](https://imanjithreddy.github.io/pricedropped/deal/rexona-shower-fresh-underarm-roll-on-deodorant-for-women-antiperspiran-b018hshijm.html): ₹49 at Amazon
 - [Eveready 10W LED Bulb Pack of 2 with Free 2 Batteries](https://imanjithreddy.github.io/pricedropped/deal/eveready-10w-led-bulb-pack-of-2-with-free-2-batteries-blbeh3bhqwfp36b5.html): ₹111 at Flipkart
 - [Moisturising Sunscreen Gel for Men | SPF50 PA++++ (20ml)](https://imanjithreddy.github.io/pricedropped/deal/moisturising-sunscreen-gel-for-men-spf50-pa-20ml-8810101244100.html): ₹49 at The Man Company
 - [Amazon Basics AAA Rechargeable 750 mAh Batteries](https://imanjithreddy.github.io/pricedropped/deal/amazon-basics-aaa-rechargeable-750-mah-batteries-b0cz7ll9cw.html): ₹149 at Amazon
@@ -54,5 +56,3 @@ affiliate links. Free alerts: https://t.me/pricedroppedhq
 - [MJE Men Cotton Blend Ankle Length Socks](https://imanjithreddy.github.io/pricedropped/deal/mje-men-cotton-blend-ankle-length-socks-39617909.html): ₹33 at Myntra
 - [boAt Stone Arc, 58mm Drivers, 12H Battery, RGB LEDs, Built-in Mic, TWS Feature 2](https://imanjithreddy.github.io/pricedropped/deal/boat-stone-arc-58mm-drivers-12h-battery-rgb-leds-built-in-mic-tws-feat-acchdzr8emgfqkyz.html): ₹1,649 at Flipkart
 - [Nutri Blend Thunder Sipper Lid, Spare part,](https://imanjithreddy.github.io/pricedropped/deal/nutri-blend-thunder-sipper-lid-spare-part-6851862954161.html): ₹49 at Wonderchef
-- [Puma Smashic Women Comfort Casual Sneakers](https://imanjithreddy.github.io/pricedropped/deal/puma-smashic-women-comfort-casual-sneakers-21766804.html): ₹1,574 at Myntra
-- [boAt 20000 mAh 22.5 W Slim Pocket Size Power Bank](https://imanjithreddy.github.io/pricedropped/deal/boat-20000-mah-22-5-w-slim-pocket-size-power-bank-pwbgvjfpsnyfd72b.html): ₹1,399 at Flipkart
