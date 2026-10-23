@@ -3,7 +3,7 @@
 > Real price drops, price errors, brand steals and the lowest prices of popular products (iPhone, Galaxy, AirPods,
 > PlayStation...) in India, new and refurbished. Prices are checked every two hours at Amazon, Flipkart, Myntra,
 > Snapdeal, Tata CLiQ, Cashify and 60+ brand stores, and every deal is checked against that product's own price
-> history before it's listed. Last updated 23 October 2026, 10:00 IST.
+> history before it's listed. Last updated 23 October 2026, 10:42 IST.
 
 Prices change fast: each page says when it was checked. Refurbished items are always labelled. Some links are
 affiliate links. Free alerts: https://t.me/pricedroppedhq
@@ -36,6 +36,7 @@ affiliate links. Free alerts: https://t.me/pricedroppedhq
 - [How we find deals](https://imanjithreddy.github.io/pricedropped/about.html)
 
 ## Live deals right now
+- [Amazon Brand - Solimo Adult Bed Bath Wipes](https://imanjithreddy.github.io/pricedropped/deal/amazon-brand-solimo-adult-bed-bath-wipes-b0cv7hs2sm.html): ₹225 at Amazon
 - [Puma Carina Slim Perf Women Sneakers](https://imanjithreddy.github.io/pricedropped/deal/puma-carina-slim-perf-women-sneakers-24919932.html): ₹1,574 at Myntra
 - [Crompton Galaxy Decoration Copper USB Powered String Fairy Lights with 100 Led L](https://imanjithreddy.github.io/pricedropped/deal/crompton-galaxy-decoration-copper-usb-powered-string-fairy-lights-with-b0bd43w4yp.html): ₹128 at Amazon
 - [Zebronics Foldable Mobile & Tablet Stand, Multi-Angle Adjustable, Supports Up to](https://imanjithreddy.github.io/pricedropped/deal/zebronics-foldable-mobile-tablet-stand-multi-angle-adjustable-supports-b0gq39kr5w.html): ₹89 at Amazon
@@ -55,4 +56,3 @@ affiliate links. Free alerts: https://t.me/pricedroppedhq
 - [Red Tape Mens Lightweight EVA Clogs Slip-On Comfortable Casual Footwear with Adj](https://imanjithreddy.github.io/pricedropped/deal/red-tape-mens-lightweight-eva-clogs-slip-on-comfortable-casual-footwea-b0g8t997ng.html): ₹580 at Amazon
 - [Pop Modern  Solid Textured Cushion Cover 45x45 Cm in Navy Colour](https://imanjithreddy.github.io/pricedropped/deal/pop-modern-solid-textured-cushion-cover-45x45-cm-in-navy-colour-9367712563479.html): ₹49 at HomeTown
 - [amazon basics Velvet Suit Hangers, 30-Pack, Ivory](https://imanjithreddy.github.io/pricedropped/deal/amazon-basics-velvet-suit-hangers-30-pack-ivory-b01m7s9c6n.html): ₹499 at Amazon
-- [PHILIPS WiZ Neo 12W B22 Wi-Fi & Bluetooth LED Smart Bulb with Music Sync, Compat](https://imanjithreddy.github.io/pricedropped/deal/philips-wiz-neo-12w-b22-wi-fi-bluetooth-led-smart-bulb-with-music-sync-b0chydwz77.html): ₹499 at Amazon
