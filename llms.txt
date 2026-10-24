@@ -3,7 +3,7 @@
 > Real price drops, price errors, brand steals and the lowest prices of popular products (iPhone, Galaxy, AirPods,
 > PlayStation...) in India, new and refurbished. Prices are checked every two hours at Amazon, Flipkart, Myntra,
 > Snapdeal, Tata CLiQ, Cashify and 60+ brand stores, and every deal is checked against that product's own price
-> history before it's listed. Last updated 24 October 2026, 16:45 IST.
+> history before it's listed. Last updated 24 October 2026, 18:47 IST.
 
 Prices change fast: each page says when it was checked. Refurbished items are always labelled. Some links are
 affiliate links. Free alerts: https://t.me/pricedroppedhq
@@ -36,6 +36,9 @@ affiliate links. Free alerts: https://t.me/pricedroppedhq
 - [How we find deals](https://imanjithreddy.github.io/pricedropped/about.html)
 
 ## Live deals right now
+- [PHILIPS Frameless 108 cm (43 inch) Full HD LED Smart Google TV with Voice Contro](https://imanjithreddy.github.io/pricedropped/deal/philips-frameless-108-cm-43-inch-full-hd-led-smart-google-tv-with-voic-tvsh7cyk2zdhb6py.html): ₹19,999 at Flipkart
+- [boAt Type C A325/A320 Tangle-free, 60W Sturdy Type C Cable with 3A Rapid Chargin](https://imanjithreddy.github.io/pricedropped/deal/boat-type-c-a325-a320-tangle-free-60w-sturdy-type-c-cable-with-3a-rapi-b08wrbg3xw.html): ₹129 at Amazon
+- [Axe Signature Mysterious No Gas Deodorant Bodyspray For Men 154 ml](https://imanjithreddy.github.io/pricedropped/deal/axe-signature-mysterious-no-gas-deodorant-bodyspray-for-men-154-ml-b07l3pkpcr.html): ₹99 at Amazon
 - [Syska 9 W Basic Standard B22 LED Bulb](https://imanjithreddy.github.io/pricedropped/deal/syska-9-w-basic-standard-b22-led-bulb-blbg7dr5gqczygmt.html): ₹133 at Flipkart
 - [Blanc Shaving Foam (50g)](https://imanjithreddy.github.io/pricedropped/deal/blanc-shaving-foam-50g-7956479410372.html): ₹49 at The Man Company
 - [REXONA Shower Fresh 72 H Odour Protection Underarm Roll-On Deodorant - 50 ml](https://imanjithreddy.github.io/pricedropped/deal/rexona-shower-fresh-72-h-odour-protection-underarm-roll-on-deodorant-5-16833652.html): ₹53 at Myntra
@@ -53,6 +56,3 @@ affiliate links. Free alerts: https://t.me/pricedroppedhq
 - [JBL Partybox Encore Essential, Dynamic Light Show ,6Hrs Playtime,Built-in Powerb](https://imanjithreddy.github.io/pricedropped/deal/jbl-partybox-encore-essential-dynamic-light-show-6hrs-playtime-built-i-accgdjrrkzzwj2kg.html): ₹13,999 at Flipkart
 - [Classmate Pulse Single Subject Spiral Notebook-Pack of 1|Single Line|200 Pages|2](https://imanjithreddy.github.io/pricedropped/deal/classmate-pulse-single-subject-spiral-notebook-pack-of-1-single-line-2-b01n5p1w5g.html): ₹79 at Amazon
 - [Blanc After Shave | Aloe Vera & Tea Tree 50ml](https://imanjithreddy.github.io/pricedropped/deal/blanc-after-shave-aloe-vera-tea-tree-50ml-8509760536772.html): ₹49 at The Man Company
-- [Portronics Konnect L POR-1403 Fast Charging 3A Type-C Cable 1.2 Meter with Charg](https://imanjithreddy.github.io/pricedropped/deal/portronics-konnect-l-por-1403-fast-charging-3a-type-c-cable-1-2-meter-b09kh58jzr.html): ₹134 at Amazon
-- [Amazon Basics Long-Lasting CR2032 Lithium Coin Batteries | 3V Voltage | Versatil](https://imanjithreddy.github.io/pricedropped/deal/amazon-basics-long-lasting-cr2032-lithium-coin-batteries-3v-voltage-ve-b0cyldq1d3.html): ₹85 at Amazon
-- [Eveready 10W LED Bulb Pack of 2 with Free 2 Batteries](https://imanjithreddy.github.io/pricedropped/deal/eveready-10w-led-bulb-pack-of-2-with-free-2-batteries-blbeh3bhqwfp36b5.html): ₹111 at Flipkart
