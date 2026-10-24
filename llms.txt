@@ -3,7 +3,7 @@
 > Real price drops, price errors, brand steals and the lowest prices of popular products (iPhone, Galaxy, AirPods,
 > PlayStation...) in India, new and refurbished. Prices are checked every two hours at Amazon, Flipkart, Myntra,
 > Snapdeal, Tata CLiQ, Cashify and 60+ brand stores, and every deal is checked against that product's own price
-> history before it's listed. Last updated 24 October 2026, 09:16 IST.
+> history before it's listed. Last updated 24 October 2026, 09:37 IST.
 
 Prices change fast: each page says when it was checked. Refurbished items are always labelled. Some links are
 affiliate links. Free alerts: https://t.me/pricedroppedhq
@@ -36,6 +36,7 @@ affiliate links. Free alerts: https://t.me/pricedroppedhq
 - [How we find deals](https://imanjithreddy.github.io/pricedropped/about.html)
 
 ## Live deals right now
+- [Jack & Jones Men Mid-Rise Ray Bootcut Light Fade Stretchable Jeans](https://imanjithreddy.github.io/pricedropped/deal/jack-jones-men-mid-rise-ray-bootcut-light-fade-stretchable-jeans-25917812.html): ₹959 at Myntra
 - [Jack & Jones Men Stretchable Bootcut Jeans](https://imanjithreddy.github.io/pricedropped/deal/jack-jones-men-stretchable-bootcut-jeans-25917788.html): ₹863 at Myntra
 - [ADIDAS Men VL Court 3.0 Sneakers](https://imanjithreddy.github.io/pricedropped/deal/adidas-men-vl-court-3-0-sneakers-33085073.html): ₹2,099 at Myntra
 - [JBL Partybox Encore Essential, Dynamic Light Show ,6Hrs Playtime,Built-in Powerb](https://imanjithreddy.github.io/pricedropped/deal/jbl-partybox-encore-essential-dynamic-light-show-6hrs-playtime-built-i-accgdjrrkzzwj2kg.html): ₹13,999 at Flipkart
@@ -53,6 +54,5 @@ affiliate links. Free alerts: https://t.me/pricedroppedhq
 - [Puma Carina Slim Perf Women Sneakers](https://imanjithreddy.github.io/pricedropped/deal/puma-carina-slim-perf-women-sneakers-24919932.html): ₹1,574 at Myntra
 - [Crompton Galaxy Decoration Copper USB Powered String Fairy Lights with 100 Led L](https://imanjithreddy.github.io/pricedropped/deal/crompton-galaxy-decoration-copper-usb-powered-string-fairy-lights-with-b0bd43w4yp.html): ₹128 at Amazon
 - [Zebronics Foldable Mobile & Tablet Stand, Multi-Angle Adjustable, Supports Up to](https://imanjithreddy.github.io/pricedropped/deal/zebronics-foldable-mobile-tablet-stand-multi-angle-adjustable-supports-b0gq39kr5w.html): ₹89 at Amazon
-- [Skechers Men Textured Go Run Consistent Running & Training Shoes](https://imanjithreddy.github.io/pricedropped/deal/skechers-men-textured-go-run-consistent-running-training-shoes-25921930.html): ₹1,924 at Myntra
 - [Apple iPhone 16 Pro - Refurbished](https://imanjithreddy.github.io/pricedropped/deal/apple-iphone-16-pro-refurbished-apple-iphone-16-pro.html): ₹77,099 at Cashify (refurbished)
 - [MJE Men Cotton Blend Ankle Length Socks](https://imanjithreddy.github.io/pricedropped/deal/mje-men-cotton-blend-ankle-length-socks-39617909.html): ₹33 at Myntra
