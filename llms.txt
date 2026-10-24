@@ -3,7 +3,7 @@
 > Real price drops, price errors, brand steals and the lowest prices of popular products (iPhone, Galaxy, AirPods,
 > PlayStation...) in India, new and refurbished. Prices are checked every two hours at Amazon, Flipkart, Myntra,
 > Snapdeal, Tata CLiQ, Cashify and 60+ brand stores, and every deal is checked against that product's own price
-> history before it's listed. Last updated 24 October 2026, 10:40 IST.
+> history before it's listed. Last updated 24 October 2026, 12:26 IST.
 
 Prices change fast: each page says when it was checked. Refurbished items are always labelled. Some links are
 affiliate links. Free alerts: https://t.me/pricedroppedhq
@@ -36,6 +36,8 @@ affiliate links. Free alerts: https://t.me/pricedroppedhq
 - [How we find deals](https://imanjithreddy.github.io/pricedropped/about.html)
 
 ## Live deals right now
+- [boAt Aavante 1550 Plus w/ Exquisite Design, Master Remote Control 160 W Bluetoot](https://imanjithreddy.github.io/pricedropped/deal/boat-aavante-1550-plus-w-exquisite-design-master-remote-control-160-w-accgzkanszkpnb5m.html): ₹4,999 at Flipkart
+- [Zebronics HDMI 2.0 Cable with ARC, 4K@60Hz UHD, 1.5 Meter Cable, 18 Gbps High Sp](https://imanjithreddy.github.io/pricedropped/deal/zebronics-hdmi-2-0-cable-with-arc-4k-60hz-uhd-1-5-meter-cable-18-gbps-b0gn36r8hw.html): ₹129 at Amazon
 - [Amazon Brand - Jam & Honey Elephant Car](https://imanjithreddy.github.io/pricedropped/deal/amazon-brand-jam-honey-elephant-car-b0drnpwb96.html): ₹779 at Amazon
 - [Dove Lavender & Chamomile Go Fresh Body Wash with Relaxing Floral Scent, 1L](https://imanjithreddy.github.io/pricedropped/deal/dove-lavender-chamomile-go-fresh-body-wash-with-relaxing-floral-scent-b0bhtqptrk.html): ₹256 at Amazon
 - [Portronics Bridge Y USB 3.0 to Type C OTG Adaptor, 10Gbps High Speed Data Transf](https://imanjithreddy.github.io/pricedropped/deal/portronics-bridge-y-usb-3-0-to-type-c-otg-adaptor-10gbps-high-speed-da-b0dh3j6lb9.html): ₹99 at Amazon
@@ -43,7 +45,6 @@ affiliate links. Free alerts: https://t.me/pricedroppedhq
 - [Jack & Jones Men Stretchable Bootcut Jeans](https://imanjithreddy.github.io/pricedropped/deal/jack-jones-men-stretchable-bootcut-jeans-25917788.html): ₹863 at Myntra
 - [ADIDAS Men VL Court 3.0 Sneakers](https://imanjithreddy.github.io/pricedropped/deal/adidas-men-vl-court-3-0-sneakers-33085073.html): ₹2,099 at Myntra
 - [JBL Partybox Encore Essential, Dynamic Light Show ,6Hrs Playtime,Built-in Powerb](https://imanjithreddy.github.io/pricedropped/deal/jbl-partybox-encore-essential-dynamic-light-show-6hrs-playtime-built-i-accgdjrrkzzwj2kg.html): ₹13,999 at Flipkart
-- [TCL T6D 138.71 cm (55 inch) QLED Ultra HD (4K) Smart Google TV 2026 Edition with](https://imanjithreddy.github.io/pricedropped/deal/tcl-t6d-138-71-cm-55-inch-qled-ultra-hd-4k-smart-google-tv-2026-editio-tvshm44hubrapygv.html): ₹34,990 at Flipkart
 - [Classmate Pulse Single Subject Spiral Notebook-Pack of 1|Single Line|200 Pages|2](https://imanjithreddy.github.io/pricedropped/deal/classmate-pulse-single-subject-spiral-notebook-pack-of-1-single-line-2-b01n5p1w5g.html): ₹79 at Amazon
 - [Blanc After Shave | Aloe Vera & Tea Tree 50ml](https://imanjithreddy.github.io/pricedropped/deal/blanc-after-shave-aloe-vera-tea-tree-50ml-8509760536772.html): ₹49 at The Man Company
 - [Portronics Konnect L POR-1403 Fast Charging 3A Type-C Cable 1.2 Meter with Charg](https://imanjithreddy.github.io/pricedropped/deal/portronics-konnect-l-por-1403-fast-charging-3a-type-c-cable-1-2-meter-b09kh58jzr.html): ₹134 at Amazon
@@ -55,4 +56,3 @@ affiliate links. Free alerts: https://t.me/pricedroppedhq
 - [Wipro 10 W Basic Standard B22 LED Bulb](https://imanjithreddy.github.io/pricedropped/deal/wipro-10-w-basic-standard-b22-led-bulb-blbfj8zbfdag9dgv.html): ₹49 at Flipkart
 - [Amazon Brand - Solimo Adult Bed Bath Wipes](https://imanjithreddy.github.io/pricedropped/deal/amazon-brand-solimo-adult-bed-bath-wipes-b0cv7hs2sm.html): ₹225 at Amazon
 - [Puma Carina Slim Perf Women Sneakers](https://imanjithreddy.github.io/pricedropped/deal/puma-carina-slim-perf-women-sneakers-24919932.html): ₹1,574 at Myntra
-- [Crompton Galaxy Decoration Copper USB Powered String Fairy Lights with 100 Led L](https://imanjithreddy.github.io/pricedropped/deal/crompton-galaxy-decoration-copper-usb-powered-string-fairy-lights-with-b0bd43w4yp.html): ₹128 at Amazon
