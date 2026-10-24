@@ -3,7 +3,7 @@
 > Real price drops, price errors, brand steals and the lowest prices of popular products (iPhone, Galaxy, AirPods,
 > PlayStation...) in India, new and refurbished. Prices are checked every two hours at Amazon, Flipkart, Myntra,
 > Snapdeal, Tata CLiQ, Cashify and 60+ brand stores, and every deal is checked against that product's own price
-> history before it's listed. Last updated 24 October 2026, 12:56 IST.
+> history before it's listed. Last updated 24 October 2026, 14:31 IST.
 
 Prices change fast: each page says when it was checked. Refurbished items are always labelled. Some links are
 affiliate links. Free alerts: https://t.me/pricedroppedhq
@@ -36,6 +36,9 @@ affiliate links. Free alerts: https://t.me/pricedroppedhq
 - [How we find deals](https://imanjithreddy.github.io/pricedropped/about.html)
 
 ## Live deals right now
+- [Orient Electric 9 W Basic Round B22 LED Bulb](https://imanjithreddy.github.io/pricedropped/deal/orient-electric-9-w-basic-round-b22-led-bulb-blbghyufhug2zvw3.html): ₹49 at Flipkart
+- [Portronics USB Type C Cable 3 A 1.2 m NA Konnect L POR-1403](https://imanjithreddy.github.io/pricedropped/deal/portronics-usb-type-c-cable-3-a-1-2-m-na-konnect-l-por-1403-accg86jchkwfcyqr.html): ₹159 at Flipkart
+- [glitchez Men Cotton Blend Ankle Length Socks](https://imanjithreddy.github.io/pricedropped/deal/glitchez-men-cotton-blend-ankle-length-socks-40895004.html): ₹38 at Myntra
 - [boAt Aavante 1550 Plus w/ Exquisite Design, Master Remote Control 160 W Bluetoot](https://imanjithreddy.github.io/pricedropped/deal/boat-aavante-1550-plus-w-exquisite-design-master-remote-control-160-w-accgzkanszkpnb5m.html): ₹4,999 at Flipkart
 - [Zebronics HDMI 2.0 Cable with ARC, 4K@60Hz UHD, 1.5 Meter Cable, 18 Gbps High Sp](https://imanjithreddy.github.io/pricedropped/deal/zebronics-hdmi-2-0-cable-with-arc-4k-60hz-uhd-1-5-meter-cable-18-gbps-b0gn36r8hw.html): ₹129 at Amazon
 - [Amazon Brand - Jam & Honey Elephant Car](https://imanjithreddy.github.io/pricedropped/deal/amazon-brand-jam-honey-elephant-car-b0drnpwb96.html): ₹779 at Amazon
@@ -53,6 +56,3 @@ affiliate links. Free alerts: https://t.me/pricedroppedhq
 - [Moisturising Sunscreen Gel for Men | SPF50 PA++++ (20ml)](https://imanjithreddy.github.io/pricedropped/deal/moisturising-sunscreen-gel-for-men-spf50-pa-20ml-8810101244100.html): ₹49 at The Man Company
 - [Amazon Basics AAA Rechargeable 750 mAh Batteries](https://imanjithreddy.github.io/pricedropped/deal/amazon-basics-aaa-rechargeable-750-mah-batteries-b0cz7ll9cw.html): ₹149 at Amazon
 - [boAt Stone Arc Pro, Spatial Audio, 58mm Drivers, 12H Battery, RGB LEDs & App Sup](https://imanjithreddy.github.io/pricedropped/deal/boat-stone-arc-pro-spatial-audio-58mm-drivers-12h-battery-rgb-leds-app-acchdyd8fus4zz3q.html): ₹1,799 at Flipkart
-- [Wipro 10 W Basic Standard B22 LED Bulb](https://imanjithreddy.github.io/pricedropped/deal/wipro-10-w-basic-standard-b22-led-bulb-blbfj8zbfdag9dgv.html): ₹49 at Flipkart
-- [Amazon Brand - Solimo Adult Bed Bath Wipes](https://imanjithreddy.github.io/pricedropped/deal/amazon-brand-solimo-adult-bed-bath-wipes-b0cv7hs2sm.html): ₹225 at Amazon
-- [Puma Carina Slim Perf Women Sneakers](https://imanjithreddy.github.io/pricedropped/deal/puma-carina-slim-perf-women-sneakers-24919932.html): ₹1,574 at Myntra
