@@ -3,7 +3,7 @@
 > Real price drops, price errors, brand steals and the lowest prices of popular products (iPhone, Galaxy, AirPods,
 > PlayStation...) in India, new and refurbished. Prices are checked every two hours at Amazon, Flipkart, Myntra,
 > Snapdeal, Tata CLiQ, Cashify and 60+ brand stores, and every deal is checked against that product's own price
-> history before it's listed. Last updated 25 October 2026, 14:16 IST.
+> history before it's listed. Last updated 25 October 2026, 14:36 IST.
 
 Prices change fast: each page says when it was checked. Refurbished items are always labelled. Some links are
 affiliate links. Free alerts: https://t.me/pricedroppedhq
@@ -22,7 +22,6 @@ affiliate links. Free alerts: https://t.me/pricedroppedhq
 - [iPhone 13 price in India today](https://imanjithreddy.github.io/pricedropped/price/iphone-13-price-in-india.html)
 - [iPhone 14 price in India today](https://imanjithreddy.github.io/pricedropped/price/iphone-14-price-in-india.html)
 - [iPhone 15 price in India today](https://imanjithreddy.github.io/pricedropped/price/iphone-15-price-in-india.html)
-- [iPhone 16 price in India today](https://imanjithreddy.github.io/pricedropped/price/iphone-16-price-in-india.html)
 - [iPhone 16 Pro price in India today](https://imanjithreddy.github.io/pricedropped/price/iphone-16-pro-price-in-india.html)
 - [iPhone 17 Pro price in India today](https://imanjithreddy.github.io/pricedropped/price/iphone-17-pro-price-in-india.html)
 - [iPhone 17e price in India today](https://imanjithreddy.github.io/pricedropped/price/iphone-17e-price-in-india.html)
