@@ -3,7 +3,7 @@
 > Real price drops, price errors, brand steals and the lowest prices of popular products (iPhone, Galaxy, AirPods,
 > PlayStation...) in India, new and refurbished. Prices are checked every two hours at Amazon, Flipkart, Myntra,
 > Snapdeal, Tata CLiQ, Cashify and 60+ brand stores, and every deal is checked against that product's own price
-> history before it's listed. Last updated 25 October 2026, 14:56 IST.
+> history before it's listed. Last updated 25 October 2026, 16:24 IST.
 
 Prices change fast: each page says when it was checked. Refurbished items are always labelled. Some links are
 affiliate links. Free alerts: https://t.me/pricedroppedhq
@@ -36,6 +36,9 @@ affiliate links. Free alerts: https://t.me/pricedroppedhq
 - [How we find deals](https://imanjithreddy.github.io/pricedropped/about.html)
 
 ## Live deals right now
+- [HP 15 (i5 14th Gen) Intel Core 5 120U - (16 GB/512 GB SSD/Windows 11 Home) 15-Fd](https://imanjithreddy.github.io/pricedropped/deal/hp-15-i5-14th-gen-intel-core-5-120u-16-gb-512-gb-ssd-windows-11-home-1-comhdzveh5xgaybf.html): ₹72,990 at Flipkart
+- [wipro Garnet 10W B22 LED Bulb, Coolwhite (Pack of 1)](https://imanjithreddy.github.io/pricedropped/deal/wipro-garnet-10w-b22-led-bulb-coolwhite-pack-of-1-b0br3vkc3f.html): ₹55 at Amazon
+- [Portronics Konnect X USB to Type C Cable with 3A Output, Fast Charging & Data Tr](https://imanjithreddy.github.io/pricedropped/deal/portronics-konnect-x-usb-to-type-c-cable-with-3a-output-fast-charging-b0cr7n9md9.html): ₹129 at Amazon
 - [Amazon Brand - Symbol Boys 100% Cotton Casual Shirt](https://imanjithreddy.github.io/pricedropped/deal/amazon-brand-symbol-boys-100-cotton-casual-shirt-b0bbr7gx96.html): ₹349 at Amazon
 - [Louis Philippe Men Premium Leather Breathable Anti Slip Flat Heel Formal Derby S](https://imanjithreddy.github.io/pricedropped/deal/louis-philippe-men-premium-leather-breathable-anti-slip-flat-heel-form-16877416.html): ₹1,279 at Myntra
 - [Puma Men Courtismo Sneakers](https://imanjithreddy.github.io/pricedropped/deal/puma-men-courtismo-sneakers-36155307.html): ₹1,679 at Myntra
@@ -53,6 +56,3 @@ affiliate links. Free alerts: https://t.me/pricedroppedhq
 - [Syska 9 W Basic Standard B22 LED Bulb](https://imanjithreddy.github.io/pricedropped/deal/syska-9-w-basic-standard-b22-led-bulb-blbg7dr5gqczygmt.html): ₹133 at Flipkart
 - [Blanc Shaving Foam (50g)](https://imanjithreddy.github.io/pricedropped/deal/blanc-shaving-foam-50g-7956479410372.html): ₹49 at The Man Company
 - [Orient Electric 9 W Basic Round B22 LED Bulb](https://imanjithreddy.github.io/pricedropped/deal/orient-electric-9-w-basic-round-b22-led-bulb-blbghyufhug2zvw3.html): ₹49 at Flipkart
-- [Portronics USB Type C Cable 3 A 1.2 m NA Konnect L POR-1403](https://imanjithreddy.github.io/pricedropped/deal/portronics-usb-type-c-cable-3-a-1-2-m-na-konnect-l-por-1403-accg86jchkwfcyqr.html): ₹159 at Flipkart
-- [glitchez Men Cotton Blend Ankle Length Socks](https://imanjithreddy.github.io/pricedropped/deal/glitchez-men-cotton-blend-ankle-length-socks-40895004.html): ₹38 at Myntra
-- [boAt Aavante 1550 Plus w/ Exquisite Design, Master Remote Control 160 W Bluetoot](https://imanjithreddy.github.io/pricedropped/deal/boat-aavante-1550-plus-w-exquisite-design-master-remote-control-160-w-accgzkanszkpnb5m.html): ₹4,999 at Flipkart
