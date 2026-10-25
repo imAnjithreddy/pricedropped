@@ -3,7 +3,7 @@
 > Real price drops, price errors, brand steals and the lowest prices of popular products (iPhone, Galaxy, AirPods,
 > PlayStation...) in India, new and refurbished. Prices are checked every two hours at Amazon, Flipkart, Myntra,
 > Snapdeal, Tata CLiQ, Cashify and 60+ brand stores, and every deal is checked against that product's own price
-> history before it's listed. Last updated 25 October 2026, 06:54 IST.
+> history before it's listed. Last updated 25 October 2026, 08:29 IST.
 
 Prices change fast: each page says when it was checked. Refurbished items are always labelled. Some links are
 affiliate links. Free alerts: https://t.me/pricedroppedhq
@@ -36,6 +36,8 @@ affiliate links. Free alerts: https://t.me/pricedroppedhq
 - [How we find deals](https://imanjithreddy.github.io/pricedropped/about.html)
 
 ## Live deals right now
+- [Pikkme Samsung M32 4G / M32 Prime / F22 4G Back Cover Soft Matte Liquid Silicone](https://imanjithreddy.github.io/pricedropped/deal/pikkme-samsung-m32-4g-m32-prime-f22-4g-back-cover-soft-matte-liquid-si-b0chz4m2zs.html): ₹189 at Amazon
+- [Zebronics Wattz 60CC4 Type-C to Type-C Braided Cable, PD 60W, Upto 480Mbps Data ](https://imanjithreddy.github.io/pricedropped/deal/zebronics-wattz-60cc4-type-c-to-type-c-braided-cable-pd-60w-upto-480mb-b0fj2ly2jn.html): ₹169 at Amazon
 - [Lakme Perfect Radiance Brightening Facewash with 98% Pure Niacinamide Complex - ](https://imanjithreddy.github.io/pricedropped/deal/lakme-perfect-radiance-brightening-facewash-with-98-pure-niacinamide-c-4384875.html): ₹70 at Myntra
 - [Amazon Basics Long-Lasting LR44 Alkaline Coin Cell Batteries | 1.5V Voltage | Li](https://imanjithreddy.github.io/pricedropped/deal/amazon-basics-long-lasting-lr44-alkaline-coin-cell-batteries-1-5v-volt-b0cyltrrcz.html): ₹85 at Amazon
 - [PHILIPS Frameless 108 cm (43 inch) Full HD LED Smart Google TV with Voice Contro](https://imanjithreddy.github.io/pricedropped/deal/philips-frameless-108-cm-43-inch-full-hd-led-smart-google-tv-with-voic-tvsh7cyk2zdhb6py.html): ₹19,999 at Flipkart
@@ -54,5 +56,3 @@ affiliate links. Free alerts: https://t.me/pricedroppedhq
 - [Jack & Jones Men Mid-Rise Ray Bootcut Light Fade Stretchable Jeans](https://imanjithreddy.github.io/pricedropped/deal/jack-jones-men-mid-rise-ray-bootcut-light-fade-stretchable-jeans-25917812.html): ₹959 at Myntra
 - [Jack & Jones Men Stretchable Bootcut Jeans](https://imanjithreddy.github.io/pricedropped/deal/jack-jones-men-stretchable-bootcut-jeans-25917788.html): ₹863 at Myntra
 - [ADIDAS Men VL Court 3.0 Sneakers](https://imanjithreddy.github.io/pricedropped/deal/adidas-men-vl-court-3-0-sneakers-33085073.html): ₹2,099 at Myntra
-- [JBL Partybox Encore Essential, Dynamic Light Show ,6Hrs Playtime,Built-in Powerb](https://imanjithreddy.github.io/pricedropped/deal/jbl-partybox-encore-essential-dynamic-light-show-6hrs-playtime-built-i-accgdjrrkzzwj2kg.html): ₹13,999 at Flipkart
-- [Classmate Pulse Single Subject Spiral Notebook-Pack of 1|Single Line|200 Pages|2](https://imanjithreddy.github.io/pricedropped/deal/classmate-pulse-single-subject-spiral-notebook-pack-of-1-single-line-2-b01n5p1w5g.html): ₹79 at Amazon
