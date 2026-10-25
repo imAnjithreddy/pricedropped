@@ -3,7 +3,7 @@
 > Real price drops, price errors, brand steals and the lowest prices of popular products (iPhone, Galaxy, AirPods,
 > PlayStation...) in India, new and refurbished. Prices are checked every two hours at Amazon, Flipkart, Myntra,
 > Snapdeal, Tata CLiQ, Cashify and 60+ brand stores, and every deal is checked against that product's own price
-> history before it's listed. Last updated 25 October 2026, 12:56 IST.
+> history before it's listed. Last updated 25 October 2026, 14:16 IST.
 
 Prices change fast: each page says when it was checked. Refurbished items are always labelled. Some links are
 affiliate links. Free alerts: https://t.me/pricedroppedhq
@@ -36,6 +36,7 @@ affiliate links. Free alerts: https://t.me/pricedroppedhq
 - [How we find deals](https://imanjithreddy.github.io/pricedropped/about.html)
 
 ## Live deals right now
+- [Amazon Brand - Symbol Boys 100% Cotton Casual Shirt](https://imanjithreddy.github.io/pricedropped/deal/amazon-brand-symbol-boys-100-cotton-casual-shirt-b0bbr7gx96.html): ₹349 at Amazon
 - [Louis Philippe Men Premium Leather Breathable Anti Slip Flat Heel Formal Derby S](https://imanjithreddy.github.io/pricedropped/deal/louis-philippe-men-premium-leather-breathable-anti-slip-flat-heel-form-16877416.html): ₹1,279 at Myntra
 - [Puma Men Courtismo Sneakers](https://imanjithreddy.github.io/pricedropped/deal/puma-men-courtismo-sneakers-36155307.html): ₹1,679 at Myntra
 - [Jack & Jones Men Clark Low-Rise Light Fade Stretchable Jeans](https://imanjithreddy.github.io/pricedropped/deal/jack-jones-men-clark-low-rise-light-fade-stretchable-jeans-32680684.html): ₹909 at Myntra
@@ -55,4 +56,3 @@ affiliate links. Free alerts: https://t.me/pricedroppedhq
 - [Portronics USB Type C Cable 3 A 1.2 m NA Konnect L POR-1403](https://imanjithreddy.github.io/pricedropped/deal/portronics-usb-type-c-cable-3-a-1-2-m-na-konnect-l-por-1403-accg86jchkwfcyqr.html): ₹159 at Flipkart
 - [glitchez Men Cotton Blend Ankle Length Socks](https://imanjithreddy.github.io/pricedropped/deal/glitchez-men-cotton-blend-ankle-length-socks-40895004.html): ₹38 at Myntra
 - [boAt Aavante 1550 Plus w/ Exquisite Design, Master Remote Control 160 W Bluetoot](https://imanjithreddy.github.io/pricedropped/deal/boat-aavante-1550-plus-w-exquisite-design-master-remote-control-160-w-accgzkanszkpnb5m.html): ₹4,999 at Flipkart
-- [Zebronics HDMI 2.0 Cable with ARC, 4K@60Hz UHD, 1.5 Meter Cable, 18 Gbps High Sp](https://imanjithreddy.github.io/pricedropped/deal/zebronics-hdmi-2-0-cable-with-arc-4k-60hz-uhd-1-5-meter-cable-18-gbps-b0gn36r8hw.html): ₹129 at Amazon
