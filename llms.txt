@@ -3,7 +3,7 @@
 > Real price drops, price errors, brand steals and the lowest prices of popular products (iPhone, Galaxy, AirPods,
 > PlayStation...) in India, new and refurbished. Prices are checked every two hours at Amazon, Flipkart, Myntra,
 > Snapdeal, Tata CLiQ, Cashify and 60+ brand stores, and every deal is checked against that product's own price
-> history before it's listed. Last updated 25 October 2026, 20:55 IST.
+> history before it's listed. Last updated 25 October 2026, 22:30 IST.
 
 Prices change fast: each page says when it was checked. Refurbished items are always labelled. Some links are
 affiliate links. Free alerts: https://t.me/pricedroppedhq
@@ -36,6 +36,9 @@ affiliate links. Free alerts: https://t.me/pricedroppedhq
 - [How we find deals](https://imanjithreddy.github.io/pricedropped/about.html)
 
 ## Live deals right now
+- [EDP | Hero (30ml)](https://imanjithreddy.github.io/pricedropped/deal/edp-hero-30ml-8621033390276.html): ₹99 at The Man Company
+- [Axe Dark Temptation Long Lasting Deodorant Bodyspray For Men 215 ml](https://imanjithreddy.github.io/pricedropped/deal/axe-dark-temptation-long-lasting-deodorant-bodyspray-for-men-215-ml-14095328.html): ₹119 at Myntra
+- [Portronics USB Type C Cable 2 A 1 m Konnect C1 20W PD Quick Charging](https://imanjithreddy.github.io/pricedropped/deal/portronics-usb-type-c-cable-2-a-1-m-konnect-c1-20w-pd-quick-charging-accgewjej6rxqkgx.html): ₹129 at Flipkart
 - [realme P4R 5G (Silver Glare, 128 GB)](https://imanjithreddy.github.io/pricedropped/deal/realme-p4r-5g-silver-glare-128-gb-mobhmyr3ejz8j2es.html): ₹18,749 at Flipkart
 - [AXE Signature Mysterious Deodorant Long Lasting No Gas Body Perfume For Men 200 ](https://imanjithreddy.github.io/pricedropped/deal/axe-signature-mysterious-deodorant-long-lasting-no-gas-body-perfume-fo-b09rw5l535.html): ₹90 at Amazon
 - [MJE Men Pack Of 5 Ankle Length Socks](https://imanjithreddy.github.io/pricedropped/deal/mje-men-pack-of-5-ankle-length-socks-33805485.html): ₹99 at Myntra
@@ -53,6 +56,3 @@ affiliate links. Free alerts: https://t.me/pricedroppedhq
 - [Amazon Basics Long-Lasting LR44 Alkaline Coin Cell Batteries | 1.5V Voltage | Li](https://imanjithreddy.github.io/pricedropped/deal/amazon-basics-long-lasting-lr44-alkaline-coin-cell-batteries-1-5v-volt-b0cyltrrcz.html): ₹85 at Amazon
 - [PHILIPS Frameless 108 cm (43 inch) Full HD LED Smart Google TV with Voice Contro](https://imanjithreddy.github.io/pricedropped/deal/philips-frameless-108-cm-43-inch-full-hd-led-smart-google-tv-with-voic-tvsh7cyk2zdhb6py.html): ₹19,999 at Flipkart
 - [boAt Type C A325/A320 Tangle-free, 60W Sturdy Type C Cable with 3A Rapid Chargin](https://imanjithreddy.github.io/pricedropped/deal/boat-type-c-a325-a320-tangle-free-60w-sturdy-type-c-cable-with-3a-rapi-b08wrbg3xw.html): ₹129 at Amazon
-- [Axe Signature Mysterious No Gas Deodorant Bodyspray For Men 154 ml](https://imanjithreddy.github.io/pricedropped/deal/axe-signature-mysterious-no-gas-deodorant-bodyspray-for-men-154-ml-b07l3pkpcr.html): ₹99 at Amazon
-- [Syska 9 W Basic Standard B22 LED Bulb](https://imanjithreddy.github.io/pricedropped/deal/syska-9-w-basic-standard-b22-led-bulb-blbg7dr5gqczygmt.html): ₹133 at Flipkart
-- [Blanc Shaving Foam (50g)](https://imanjithreddy.github.io/pricedropped/deal/blanc-shaving-foam-50g-7956479410372.html): ₹49 at The Man Company
