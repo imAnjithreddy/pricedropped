@@ -3,7 +3,7 @@
 > Real price drops, price errors, brand steals and the lowest prices of popular products (iPhone, Galaxy, AirPods,
 > PlayStation...) in India, new and refurbished. Prices are checked every two hours at Amazon, Flipkart, Myntra,
 > Snapdeal, Tata CLiQ, Cashify and 60+ brand stores, and every deal is checked against that product's own price
-> history before it's listed. Last updated 26 October 2026, 22:20 IST.
+> history before it's listed. Last updated 26 October 2026, 23:14 IST.
 
 Prices change fast: each page says when it was checked. Refurbished items are always labelled. Some links are
 affiliate links. Free alerts: https://t.me/pricedroppedhq
@@ -41,7 +41,6 @@ affiliate links. Free alerts: https://t.me/pricedroppedhq
 - [Nutri Blend Bolt Complete Sipper Lid Assy. Addnl Spare,](https://imanjithreddy.github.io/pricedropped/deal/nutri-blend-bolt-complete-sipper-lid-assy-addnl-spare-7052539887793.html): ₹49 at Wonderchef
 - [boAtlifestylein boAt PartyPal 600 | Bluetooth Speaker with 220W boAt Signature S](https://imanjithreddy.github.io/pricedropped/deal/boatlifestylein-boat-partypal-600-bluetooth-speaker-with-220w-boat-sig-7293386653794.html): ₹17,799 at boAt
 - [boAt BassHeads 100 in-Ear Wired Earphones with Hawk Inspired Design, Integrated ](https://imanjithreddy.github.io/pricedropped/deal/boat-bassheads-100-in-ear-wired-earphones-with-hawk-inspired-design-in-b0d6ypf4qf.html): ₹287 at Amazon
-- [Nike Women Court Royale Sneakers](https://imanjithreddy.github.io/pricedropped/deal/nike-women-court-royale-sneakers-17206068.html): ₹1,433 at Myntra
 - [Puma X-Ray 2 Square Retro Style Sneakers](https://imanjithreddy.github.io/pricedropped/deal/puma-x-ray-2-square-retro-style-sneakers-32682455.html): ₹2,799 at Myntra
 - [Crocs Unisex Crocband Clogs](https://imanjithreddy.github.io/pricedropped/deal/crocs-unisex-crocband-clogs-1261405.html): ₹1,999 at Myntra
 - [SONY Alpha 6400M Mirrorless Camera Body With 18-135mm](https://imanjithreddy.github.io/pricedropped/deal/sony-alpha-6400m-mirrorless-camera-body-with-18-135mm-dllh4fr45hqmhu8h.html): ₹1,04,841 at Flipkart
@@ -56,3 +55,4 @@ affiliate links. Free alerts: https://t.me/pricedroppedhq
 - [Pikkme Samsung Galaxy M14 5G Back Cover Soft Matte Liquid Silicone TPU](https://imanjithreddy.github.io/pricedropped/deal/pikkme-samsung-galaxy-m14-5g-back-cover-soft-matte-liquid-silicone-tpu-b0chz2t96t.html): ₹189 at Amazon
 - [boAtlifestylein boAt Cinehead F1 | Full HD Smart Projector with Google TV & Up t](https://imanjithreddy.github.io/pricedropped/deal/boatlifestylein-boat-cinehead-f1-full-hd-smart-projector-with-google-t-7774826758242.html): ₹19,999 at boAt
 - [Nike Men Black Quest 3 Shield Running Shoe](https://imanjithreddy.github.io/pricedropped/deal/nike-men-black-quest-3-shield-running-shoe-12738820.html): ₹2,518 at Myntra
+- [Portronics Toad 103 Wired Optical Mouse with 2400 DPI, Plug & Play, Ambidextrous](https://imanjithreddy.github.io/pricedropped/deal/portronics-toad-103-wired-optical-mouse-with-2400-dpi-plug-play-ambide-b0f5q9qth1.html): ₹119 at Amazon
