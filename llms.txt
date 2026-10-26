@@ -3,7 +3,7 @@
 > Real price drops, price errors, brand steals and the lowest prices of popular products (iPhone, Galaxy, AirPods,
 > PlayStation...) in India, new and refurbished. Prices are checked every two hours at Amazon, Flipkart, Myntra,
 > Snapdeal, Tata CLiQ, Cashify and 60+ brand stores, and every deal is checked against that product's own price
-> history before it's listed. Last updated 26 October 2026, 08:42 IST.
+> history before it's listed. Last updated 26 October 2026, 09:18 IST.
 
 Prices change fast: each page says when it was checked. Refurbished items are always labelled. Some links are
 affiliate links. Free alerts: https://t.me/pricedroppedhq
@@ -36,6 +36,7 @@ affiliate links. Free alerts: https://t.me/pricedroppedhq
 - [How we find deals](https://imanjithreddy.github.io/pricedropped/about.html)
 
 ## Live deals right now
+- [Puma Softride Frequence Street All-Day Comfort Sneakers](https://imanjithreddy.github.io/pricedropped/deal/puma-softride-frequence-street-all-day-comfort-sneakers-34970899.html): ₹2,449 at Myntra
 - [Portronics Konnect X 3A Unbreakable Nylon Braided USB to Type C Fast Charging Ca](https://imanjithreddy.github.io/pricedropped/deal/portronics-konnect-x-3a-unbreakable-nylon-braided-usb-to-type-c-fast-c-b0csk7tffm.html): ₹175 at Amazon
 - [EDP | Hero (30ml)](https://imanjithreddy.github.io/pricedropped/deal/edp-hero-30ml-8621033390276.html): ₹99 at The Man Company
 - [Axe Dark Temptation Long Lasting Deodorant Bodyspray For Men 215 ml](https://imanjithreddy.github.io/pricedropped/deal/axe-dark-temptation-long-lasting-deodorant-bodyspray-for-men-215-ml-14095328.html): ₹119 at Myntra
@@ -55,4 +56,3 @@ affiliate links. Free alerts: https://t.me/pricedroppedhq
 - [Syska 9 W Basic Standard B22 LED Bulb](https://imanjithreddy.github.io/pricedropped/deal/syska-9-w-basic-standard-b22-led-bulb-blbg7dr5gqczygmt.html): ₹133 at Flipkart
 - [Blanc Shaving Foam (50g)](https://imanjithreddy.github.io/pricedropped/deal/blanc-shaving-foam-50g-7956479410372.html): ₹49 at The Man Company
 - [Portronics USB Type C Cable 3 A 1.2 m NA Konnect L POR-1403](https://imanjithreddy.github.io/pricedropped/deal/portronics-usb-type-c-cable-3-a-1-2-m-na-konnect-l-por-1403-accg86jchkwfcyqr.html): ₹159 at Flipkart
-- [boAt Aavante 1550 Plus w/ Exquisite Design, Master Remote Control 160 W Bluetoot](https://imanjithreddy.github.io/pricedropped/deal/boat-aavante-1550-plus-w-exquisite-design-master-remote-control-160-w-accgzkanszkpnb5m.html): ₹4,999 at Flipkart
