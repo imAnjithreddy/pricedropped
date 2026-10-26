@@ -3,7 +3,7 @@
 > Real price drops, price errors, brand steals and the lowest prices of popular products (iPhone, Galaxy, AirPods,
 > PlayStation...) in India, new and refurbished. Prices are checked every two hours at Amazon, Flipkart, Myntra,
 > Snapdeal, Tata CLiQ, Cashify and 60+ brand stores, and every deal is checked against that product's own price
-> history before it's listed. Last updated 26 October 2026, 10:58 IST.
+> history before it's listed. Last updated 26 October 2026, 11:50 IST.
 
 Prices change fast: each page says when it was checked. Refurbished items are always labelled. Some links are
 affiliate links. Free alerts: https://t.me/pricedroppedhq
@@ -36,6 +36,7 @@ affiliate links. Free alerts: https://t.me/pricedroppedhq
 - [How we find deals](https://imanjithreddy.github.io/pricedropped/about.html)
 
 ## Live deals right now
+- [Pikkme Samsung Galaxy M14 5G Back Cover Soft Matte Liquid Silicone TPU](https://imanjithreddy.github.io/pricedropped/deal/pikkme-samsung-galaxy-m14-5g-back-cover-soft-matte-liquid-silicone-tpu-b0chz2t96t.html): ₹189 at Amazon
 - [boAtlifestylein boAt Cinehead F1 | Full HD Smart Projector with Google TV & Up t](https://imanjithreddy.github.io/pricedropped/deal/boatlifestylein-boat-cinehead-f1-full-hd-smart-projector-with-google-t-7774826758242.html): ₹19,999 at boAt
 - [Nike Men Black Quest 3 Shield Running Shoe](https://imanjithreddy.github.io/pricedropped/deal/nike-men-black-quest-3-shield-running-shoe-12738820.html): ₹2,518 at Myntra
 - [Portronics Toad 103 Wired Optical Mouse with 2400 DPI, Plug & Play, Ambidextrous](https://imanjithreddy.github.io/pricedropped/deal/portronics-toad-103-wired-optical-mouse-with-2400-dpi-plug-play-ambide-b0f5q9qth1.html): ₹119 at Amazon
@@ -55,4 +56,3 @@ affiliate links. Free alerts: https://t.me/pricedroppedhq
 - [Amazon Basics Long-Lasting LR44 Alkaline Coin Cell Batteries | 1.5V Voltage | Li](https://imanjithreddy.github.io/pricedropped/deal/amazon-basics-long-lasting-lr44-alkaline-coin-cell-batteries-1-5v-volt-b0cyltrrcz.html): ₹85 at Amazon
 - [PHILIPS Frameless 108 cm (43 inch) Full HD LED Smart Google TV with Voice Contro](https://imanjithreddy.github.io/pricedropped/deal/philips-frameless-108-cm-43-inch-full-hd-led-smart-google-tv-with-voic-tvsh7cyk2zdhb6py.html): ₹19,999 at Flipkart
 - [boAt Type C A325/A320 Tangle-free, 60W Sturdy Type C Cable with 3A Rapid Chargin](https://imanjithreddy.github.io/pricedropped/deal/boat-type-c-a325-a320-tangle-free-60w-sturdy-type-c-cable-with-3a-rapi-b08wrbg3xw.html): ₹129 at Amazon
-- [Axe Signature Mysterious No Gas Deodorant Bodyspray For Men 154 ml](https://imanjithreddy.github.io/pricedropped/deal/axe-signature-mysterious-no-gas-deodorant-bodyspray-for-men-154-ml-b07l3pkpcr.html): ₹99 at Amazon
