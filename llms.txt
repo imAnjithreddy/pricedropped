@@ -3,7 +3,7 @@
 > Real price drops, price errors, brand steals and the lowest prices of popular products (iPhone, Galaxy, AirPods,
 > PlayStation...) in India, new and refurbished. Prices are checked every two hours at Amazon, Flipkart, Myntra,
 > Snapdeal, Tata CLiQ, Cashify and 60+ brand stores, and every deal is checked against that product's own price
-> history before it's listed. Last updated 26 October 2026, 17:34 IST.
+> history before it's listed. Last updated 26 October 2026, 17:56 IST.
 
 Prices change fast: each page says when it was checked. Refurbished items are always labelled. Some links are
 affiliate links. Free alerts: https://t.me/pricedroppedhq
@@ -36,6 +36,7 @@ affiliate links. Free alerts: https://t.me/pricedroppedhq
 - [How we find deals](https://imanjithreddy.github.io/pricedropped/about.html)
 
 ## Live deals right now
+- [Crocs Unisex Crocband Clogs](https://imanjithreddy.github.io/pricedropped/deal/crocs-unisex-crocband-clogs-1261405.html): ₹1,999 at Myntra
 - [SONY Alpha 6400M Mirrorless Camera Body With 18-135mm](https://imanjithreddy.github.io/pricedropped/deal/sony-alpha-6400m-mirrorless-camera-body-with-18-135mm-dllh4fr45hqmhu8h.html): ₹1,04,841 at Flipkart
 - [SONY MDR-ZX310AP, 30mm Driver and Foldable Design Wired](https://imanjithreddy.github.io/pricedropped/deal/sony-mdr-zx310ap-30mm-driver-and-foldable-design-wired-accdqzau6gbrwyxd.html): ₹799 at Flipkart
 - [Ambrane USB Type C Cable 3 A 1.5 m RCTT-15 Type C to](https://imanjithreddy.github.io/pricedropped/deal/ambrane-usb-type-c-cable-3-a-1-5-m-rctt-15-type-c-to-accfpnkrbgtcv2py.html): ₹129 at Flipkart
@@ -55,4 +56,3 @@ affiliate links. Free alerts: https://t.me/pricedroppedhq
 - [Portronics USB Type C Cable 2 A 1 m Konnect C1 20W PD Quick Charging](https://imanjithreddy.github.io/pricedropped/deal/portronics-usb-type-c-cable-2-a-1-m-konnect-c1-20w-pd-quick-charging-accgewjej6rxqkgx.html): ₹129 at Flipkart
 - [AXE Signature Mysterious Deodorant Long Lasting No Gas Body Perfume For Men 200 ](https://imanjithreddy.github.io/pricedropped/deal/axe-signature-mysterious-deodorant-long-lasting-no-gas-body-perfume-fo-b09rw5l535.html): ₹90 at Amazon
 - [wipro Garnet 10W B22 LED Bulb, Coolwhite (Pack of 1)](https://imanjithreddy.github.io/pricedropped/deal/wipro-garnet-10w-b22-led-bulb-coolwhite-pack-of-1-b0br3vkc3f.html): ₹55 at Amazon
-- [Portronics Konnect X USB to Type C Cable with 3A Output, Fast Charging & Data Tr](https://imanjithreddy.github.io/pricedropped/deal/portronics-konnect-x-usb-to-type-c-cable-with-3a-output-fast-charging-b0cr7n9md9.html): ₹129 at Amazon
