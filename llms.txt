@@ -3,7 +3,7 @@
 > Real price drops, price errors, brand steals and the lowest prices of popular products (iPhone, Galaxy, AirPods,
 > PlayStation...) in India, new and refurbished. Prices are checked every two hours at Amazon, Flipkart, Myntra,
 > Snapdeal, Tata CLiQ, Cashify and 60+ brand stores, and every deal is checked against that product's own price
-> history before it's listed. Last updated 26 October 2026, 18:40 IST.
+> history before it's listed. Last updated 26 October 2026, 19:16 IST.
 
 Prices change fast: each page says when it was checked. Refurbished items are always labelled. Some links are
 affiliate links. Free alerts: https://t.me/pricedroppedhq
@@ -36,6 +36,7 @@ affiliate links. Free alerts: https://t.me/pricedroppedhq
 - [How we find deals](https://imanjithreddy.github.io/pricedropped/about.html)
 
 ## Live deals right now
+- [boAt BassHeads 100 in-Ear Wired Earphones with Hawk Inspired Design, Integrated ](https://imanjithreddy.github.io/pricedropped/deal/boat-bassheads-100-in-ear-wired-earphones-with-hawk-inspired-design-in-b0d6ypf4qf.html): ₹287 at Amazon
 - [Nike Women Court Royale Sneakers](https://imanjithreddy.github.io/pricedropped/deal/nike-women-court-royale-sneakers-17206068.html): ₹1,433 at Myntra
 - [Puma X-Ray 2 Square Retro Style Sneakers](https://imanjithreddy.github.io/pricedropped/deal/puma-x-ray-2-square-retro-style-sneakers-32682455.html): ₹2,799 at Myntra
 - [Crocs Unisex Crocband Clogs](https://imanjithreddy.github.io/pricedropped/deal/crocs-unisex-crocband-clogs-1261405.html): ₹1,999 at Myntra
@@ -55,4 +56,3 @@ affiliate links. Free alerts: https://t.me/pricedroppedhq
 - [Puma Softride Frequence Street All-Day Comfort Sneakers](https://imanjithreddy.github.io/pricedropped/deal/puma-softride-frequence-street-all-day-comfort-sneakers-34970899.html): ₹2,449 at Myntra
 - [Portronics Konnect X 3A Unbreakable Nylon Braided USB to Type C Fast Charging Ca](https://imanjithreddy.github.io/pricedropped/deal/portronics-konnect-x-3a-unbreakable-nylon-braided-usb-to-type-c-fast-c-b0csk7tffm.html): ₹175 at Amazon
 - [EDP | Hero (30ml)](https://imanjithreddy.github.io/pricedropped/deal/edp-hero-30ml-8621033390276.html): ₹99 at The Man Company
-- [Portronics USB Type C Cable 2 A 1 m Konnect C1 20W PD Quick Charging](https://imanjithreddy.github.io/pricedropped/deal/portronics-usb-type-c-cable-2-a-1-m-konnect-c1-20w-pd-quick-charging-accgewjej6rxqkgx.html): ₹129 at Flipkart
