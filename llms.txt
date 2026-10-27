@@ -3,7 +3,7 @@
 > Real price drops, price errors, brand steals and the lowest prices of popular products (iPhone, Galaxy, AirPods,
 > PlayStation...) in India, new and refurbished. Prices are checked every two hours at Amazon, Flipkart, Myntra,
 > Snapdeal, Tata CLiQ, Cashify and 60+ brand stores, and every deal is checked against that product's own price
-> history before it's listed. Last updated 27 October 2026, 16:59 IST.
+> history before it's listed. Last updated 27 October 2026, 17:36 IST.
 
 Prices change fast: each page says when it was checked. Refurbished items are always labelled. Some links are
 affiliate links. Free alerts: https://t.me/pricedroppedhq
@@ -16,6 +16,7 @@ affiliate links. Free alerts: https://t.me/pricedroppedhq
 - [Galaxy S24 FE price in India today](https://imanjithreddy.github.io/pricedropped/price/galaxy-s24-fe-price-in-india.html)
 - [Galaxy S24 Ultra price in India today](https://imanjithreddy.github.io/pricedropped/price/galaxy-s24-ultra-price-in-india.html)
 - [MacBook Air M2/M3 price in India today](https://imanjithreddy.github.io/pricedropped/price/macbook-air-m2-m3-price-in-india.html)
+- [OnePlus 13 price in India today](https://imanjithreddy.github.io/pricedropped/price/oneplus-13-price-in-india.html)
 - [PlayStation 5 price in India today](https://imanjithreddy.github.io/pricedropped/price/playstation-5-price-in-india.html)
 - [Sony WH-1000XM5 price in India today](https://imanjithreddy.github.io/pricedropped/price/sony-wh-1000xm5-price-in-india.html)
 - [iPad price in India today](https://imanjithreddy.github.io/pricedropped/price/ipad-price-in-india.html)
@@ -36,6 +37,7 @@ affiliate links. Free alerts: https://t.me/pricedroppedhq
 - [How we find deals](https://imanjithreddy.github.io/pricedropped/about.html)
 
 ## Live deals right now
+- [Levis Typography Printed Sweatshirt With Jogger Track Pants](https://imanjithreddy.github.io/pricedropped/deal/levis-typography-printed-sweatshirt-with-jogger-track-pants-35665892.html): ₹1,315 at Myntra
 - [Lenovo Tab M11 8 GB RAM 128 GB ROM 11.0 inch with Wi-Fi Only Gaming MediaTek Hel](https://imanjithreddy.github.io/pricedropped/deal/lenovo-tab-m11-8-gb-ram-128-gb-rom-11-0-inch-with-wi-fi-only-gaming-me-tabhfaehedg52xzv.html): ₹15,748 at Flipkart
 - [Panasonic Dura Saver 9W Bulb, B22 LED Bulb Base For Home & Office, 1 Year Warran](https://imanjithreddy.github.io/pricedropped/deal/panasonic-dura-saver-9w-bulb-b22-led-bulb-base-for-home-office-1-year-b0ccl6ml79.html): ₹86 at Amazon
 - [Zebronics Type-C Fast Charging Cable, Upto 480 Mbps, 36W Rapid Charge, 3A Output](https://imanjithreddy.github.io/pricedropped/deal/zebronics-type-c-fast-charging-cable-upto-480-mbps-36w-rapid-charge-3a-b0gvt5nf8w.html): ₹69 at Amazon
@@ -55,4 +57,3 @@ affiliate links. Free alerts: https://t.me/pricedroppedhq
 - [boAtlifestylein boAt PartyPal 600 | Bluetooth Speaker with 220W boAt Signature S](https://imanjithreddy.github.io/pricedropped/deal/boatlifestylein-boat-partypal-600-bluetooth-speaker-with-220w-boat-sig-7293386653794.html): ₹17,799 at boAt
 - [boAt BassHeads 100 in-Ear Wired Earphones with Hawk Inspired Design, Integrated ](https://imanjithreddy.github.io/pricedropped/deal/boat-bassheads-100-in-ear-wired-earphones-with-hawk-inspired-design-in-b0d6ypf4qf.html): ₹287 at Amazon
 - [Puma X-Ray 2 Square Retro Style Sneakers](https://imanjithreddy.github.io/pricedropped/deal/puma-x-ray-2-square-retro-style-sneakers-32682455.html): ₹2,799 at Myntra
-- [Crocs Unisex Crocband Clogs](https://imanjithreddy.github.io/pricedropped/deal/crocs-unisex-crocband-clogs-1261405.html): ₹1,999 at Myntra
