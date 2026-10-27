@@ -3,7 +3,7 @@
 > Real price drops, price errors, brand steals and the lowest prices of popular products (iPhone, Galaxy, AirPods,
 > PlayStation...) in India, new and refurbished. Prices are checked every two hours at Amazon, Flipkart, Myntra,
 > Snapdeal, Tata CLiQ, Cashify and 60+ brand stores, and every deal is checked against that product's own price
-> history before it's listed. Last updated 27 October 2026, 15:18 IST.
+> history before it's listed. Last updated 27 October 2026, 16:59 IST.
 
 Prices change fast: each page says when it was checked. Refurbished items are always labelled. Some links are
 affiliate links. Free alerts: https://t.me/pricedroppedhq
@@ -36,6 +36,9 @@ affiliate links. Free alerts: https://t.me/pricedroppedhq
 - [How we find deals](https://imanjithreddy.github.io/pricedropped/about.html)
 
 ## Live deals right now
+- [Lenovo Tab M11 8 GB RAM 128 GB ROM 11.0 inch with Wi-Fi Only Gaming MediaTek Hel](https://imanjithreddy.github.io/pricedropped/deal/lenovo-tab-m11-8-gb-ram-128-gb-rom-11-0-inch-with-wi-fi-only-gaming-me-tabhfaehedg52xzv.html): ₹15,748 at Flipkart
+- [Panasonic Dura Saver 9W Bulb, B22 LED Bulb Base For Home & Office, 1 Year Warran](https://imanjithreddy.github.io/pricedropped/deal/panasonic-dura-saver-9w-bulb-b22-led-bulb-base-for-home-office-1-year-b0ccl6ml79.html): ₹86 at Amazon
+- [Zebronics Type-C Fast Charging Cable, Upto 480 Mbps, 36W Rapid Charge, 3A Output](https://imanjithreddy.github.io/pricedropped/deal/zebronics-type-c-fast-charging-cable-upto-480-mbps-36w-rapid-charge-3a-b0gvt5nf8w.html): ₹69 at Amazon
 - [Levis Men 565 Straight Fit Mid-Rise Pure Cotton Jeans](https://imanjithreddy.github.io/pricedropped/deal/levis-men-565-straight-fit-mid-rise-pure-cotton-jeans-35552259.html): ₹1,091 at Myntra
 - [Amazon Basics Sliding Drawer 6-Slot Watch and Jewelry Organizer – Faux Leather &](https://imanjithreddy.github.io/pricedropped/deal/amazon-basics-sliding-drawer-6-slot-watch-and-jewelry-organizer-faux-l-b0gtvybzqy.html): ₹899 at Amazon
 - [Portronics Konnect X 60W Unbreakable Nylon Braided Cable, 2M Fast Charging Cable](https://imanjithreddy.github.io/pricedropped/deal/portronics-konnect-x-60w-unbreakable-nylon-braided-cable-2m-fast-charg-b0cv45n68c.html): ₹189 at Amazon
@@ -53,6 +56,3 @@ affiliate links. Free alerts: https://t.me/pricedroppedhq
 - [boAt BassHeads 100 in-Ear Wired Earphones with Hawk Inspired Design, Integrated ](https://imanjithreddy.github.io/pricedropped/deal/boat-bassheads-100-in-ear-wired-earphones-with-hawk-inspired-design-in-b0d6ypf4qf.html): ₹287 at Amazon
 - [Puma X-Ray 2 Square Retro Style Sneakers](https://imanjithreddy.github.io/pricedropped/deal/puma-x-ray-2-square-retro-style-sneakers-32682455.html): ₹2,799 at Myntra
 - [Crocs Unisex Crocband Clogs](https://imanjithreddy.github.io/pricedropped/deal/crocs-unisex-crocband-clogs-1261405.html): ₹1,999 at Myntra
-- [SONY Alpha 6400M Mirrorless Camera Body With 18-135mm](https://imanjithreddy.github.io/pricedropped/deal/sony-alpha-6400m-mirrorless-camera-body-with-18-135mm-dllh4fr45hqmhu8h.html): ₹1,04,841 at Flipkart
-- [SONY MDR-ZX310AP, 30mm Driver and Foldable Design Wired](https://imanjithreddy.github.io/pricedropped/deal/sony-mdr-zx310ap-30mm-driver-and-foldable-design-wired-accdqzau6gbrwyxd.html): ₹799 at Flipkart
-- [Ambrane USB Type C Cable 3 A 1.5 m RCTT-15 Type C to](https://imanjithreddy.github.io/pricedropped/deal/ambrane-usb-type-c-cable-3-a-1-5-m-rctt-15-type-c-to-accfpnkrbgtcv2py.html): ₹129 at Flipkart
