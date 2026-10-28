@@ -3,7 +3,7 @@
 > Real price drops, price errors, brand steals and the lowest prices of popular products (iPhone, Galaxy, AirPods,
 > PlayStation...) in India, new and refurbished. Prices are checked every two hours at Amazon, Flipkart, Myntra,
 > Snapdeal, Tata CLiQ, Cashify and 60+ brand stores, and every deal is checked against that product's own price
-> history before it's listed. Last updated 28 October 2026, 09:55 IST.
+> history before it's listed. Last updated 28 October 2026, 11:03 IST.
 
 Prices change fast: each page says when it was checked. Refurbished items are always labelled. Some links are
 affiliate links. Free alerts: https://t.me/pricedroppedhq
@@ -38,6 +38,7 @@ affiliate links. Free alerts: https://t.me/pricedroppedhq
 - [How we find deals](https://imanjithreddy.github.io/pricedropped/about.html)
 
 ## Live deals right now
+- [Wildcraft Colourblocked Large Ergonomic Padded Shoulder Backpacks](https://imanjithreddy.github.io/pricedropped/deal/wildcraft-colourblocked-large-ergonomic-padded-shoulder-backpacks-12361368.html): ₹1,091 at Myntra
 - [REDMI Pad 2 Pro 5G 8 GB RAM 128 GB ROM 12.1 inch with Wi-Fi+5G Gaming Qualcomm S](https://imanjithreddy.github.io/pricedropped/deal/redmi-pad-2-pro-5g-8-gb-ram-128-gb-rom-12-1-inch-with-wi-fi-5g-gaming-tabhjfbz493s8qzk.html): ₹29,999 at Flipkart
 - [Wildcraft Jet Colourblocked Large Ergonomic Raincover Backpacks](https://imanjithreddy.github.io/pricedropped/deal/wildcraft-jet-colourblocked-large-ergonomic-raincover-backpacks-12361370.html): ₹1,091 at Myntra
 - [Amazon Brand - Solimo Polyester 75% Blackout Door Curtains|Door Curtains|7 Feet|](https://imanjithreddy.github.io/pricedropped/deal/amazon-brand-solimo-polyester-75-blackout-door-curtains-door-curtains-b0brkpvxvq.html): ₹299 at Amazon
@@ -57,4 +58,3 @@ affiliate links. Free alerts: https://t.me/pricedroppedhq
 - [Portronics Konnect X 60W Unbreakable Nylon Braided Cable, 2M Fast Charging Cable](https://imanjithreddy.github.io/pricedropped/deal/portronics-konnect-x-60w-unbreakable-nylon-braided-cable-2m-fast-charg-b0cv45n68c.html): ₹189 at Amazon
 - [Wildcraft Trix Colourblocked Small Ergonomic Padded Shoulder Structured Backpack](https://imanjithreddy.github.io/pricedropped/deal/wildcraft-trix-colourblocked-small-ergonomic-padded-shoulder-structure-7770864.html): ₹559 at Myntra
 - [Wildcraft Lunar Printed Medium Ergonomic Padded Shoulder Backpacks](https://imanjithreddy.github.io/pricedropped/deal/wildcraft-lunar-printed-medium-ergonomic-padded-shoulder-backpacks-12361350.html): ₹999 at Myntra
-- [Havells Glamax 9W B22 WiFi LED Smart Bulb with Music Sync Function, Compatible w](https://imanjithreddy.github.io/pricedropped/deal/havells-glamax-9w-b22-wifi-led-smart-bulb-with-music-sync-function-com-b0d738fnb2.html): ₹349 at Amazon
