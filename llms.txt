@@ -3,7 +3,7 @@
 > Real price drops, price errors, brand steals and the lowest prices of popular products (iPhone, Galaxy, AirPods,
 > PlayStation...) in India, new and refurbished. Prices are checked every two hours at Amazon, Flipkart, Myntra,
 > Snapdeal, Tata CLiQ, Cashify and 60+ brand stores, and every deal is checked against that product's own price
-> history before it's listed. Last updated 28 October 2026, 07:30 IST.
+> history before it's listed. Last updated 28 October 2026, 08:19 IST.
 
 Prices change fast: each page says when it was checked. Refurbished items are always labelled. Some links are
 affiliate links. Free alerts: https://t.me/pricedroppedhq
@@ -38,6 +38,8 @@ affiliate links. Free alerts: https://t.me/pricedroppedhq
 - [How we find deals](https://imanjithreddy.github.io/pricedropped/about.html)
 
 ## Live deals right now
+- [Apple Watch SE GPS + Cellular 40mm Starlight Aluminium ...](https://imanjithreddy.github.io/pricedropped/deal/apple-watch-se-gps-cellular-40mm-starlight-aluminium-smwh4jbwusbsvwch.html): ₹17,999 at Flipkart
+- [Samsung ViewFinity S5 Curved Monitor 86.36 cm (34 inch) Curved UWQHD LED Backlit](https://imanjithreddy.github.io/pricedropped/deal/samsung-viewfinity-s5-curved-monitor-86-36-cm-34-inch-curved-uwqhd-led-monhrf3xgxzxz69c.html): ₹24,099 at Flipkart
 - [Bleu | Body Perfume (120ml)](https://imanjithreddy.github.io/pricedropped/deal/bleu-body-perfume-120ml-8201149841604.html): ₹79 at The Man Company
 - [Dabur Red Gel Ayurvedic Toothpaste - 300g (150g x 2) | Reduction in Bad Breath, ](https://imanjithreddy.github.io/pricedropped/deal/dabur-red-gel-ayurvedic-toothpaste-300g-150g-x-2-reduction-in-bad-brea-b07fw8h9c1.html): ₹102 at Amazon
 - [Wonderchef India Fabric Waterstone Kitchen Towel Set, Set of 2, Beige](https://imanjithreddy.github.io/pricedropped/deal/wonderchef-india-fabric-waterstone-kitchen-towel-set-set-of-2-beige-8996668342449.html): ₹95 at Wonderchef
@@ -56,5 +58,3 @@ affiliate links. Free alerts: https://t.me/pricedroppedhq
 - [Wildcraft Lunar Printed Medium Ergonomic Padded Shoulder Backpacks](https://imanjithreddy.github.io/pricedropped/deal/wildcraft-lunar-printed-medium-ergonomic-padded-shoulder-backpacks-12361350.html): ₹999 at Myntra
 - [Havells Glamax 9W B22 WiFi LED Smart Bulb with Music Sync Function, Compatible w](https://imanjithreddy.github.io/pricedropped/deal/havells-glamax-9w-b22-wifi-led-smart-bulb-with-music-sync-function-com-b0d738fnb2.html): ₹349 at Amazon
 - [Zebronics Wattz 240CC1 Type-C to Type-C Braided Cable, PD 240W, 2 Meter, Durable](https://imanjithreddy.github.io/pricedropped/deal/zebronics-wattz-240cc1-type-c-to-type-c-braided-cable-pd-240w-2-meter-b0fj2b9wr2.html): ₹249 at Amazon
-- [Libas  Mustard Yoke Design Tissue Farshi Salwar Suit](https://imanjithreddy.github.io/pricedropped/deal/libas-mustard-yoke-design-tissue-farshi-salwar-suit-15394086158486.html): ₹2,619 at Libas
-- [Libas  Brown Embellished Tissue Palazzo Suit Set](https://imanjithreddy.github.io/pricedropped/deal/libas-brown-embellished-tissue-palazzo-suit-set-15394086191254.html): ₹2,619 at Libas
