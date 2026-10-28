@@ -3,7 +3,7 @@
 > Real price drops, price errors, brand steals and the lowest prices of popular products (iPhone, Galaxy, AirPods,
 > PlayStation...) in India, new and refurbished. Prices are checked every two hours at Amazon, Flipkart, Myntra,
 > Snapdeal, Tata CLiQ, Cashify and 60+ brand stores, and every deal is checked against that product's own price
-> history before it's listed. Last updated 28 October 2026, 21:14 IST.
+> history before it's listed. Last updated 28 October 2026, 23:57 IST.
 
 Prices change fast: each page says when it was checked. Refurbished items are always labelled. Some links are
 affiliate links. Free alerts: https://t.me/pricedroppedhq
@@ -38,6 +38,9 @@ affiliate links. Free alerts: https://t.me/pricedroppedhq
 - [How we find deals](https://imanjithreddy.github.io/pricedropped/about.html)
 
 ## Live deals right now
+- [HAVELLS 9 W Basic Round B22 LED Bulb](https://imanjithreddy.github.io/pricedropped/deal/havells-9-w-basic-round-b22-led-bulb-blbfs7vyxhhszxsn.html): ₹54 at Flipkart
+- [Amazon Basics Back Case Cover for iPhone 15 Pro | Magnetic Case with Built-in Me](https://imanjithreddy.github.io/pricedropped/deal/amazon-basics-back-case-cover-for-iphone-15-pro-magnetic-case-with-bui-b0fgd69xn7.html): ₹98 at Amazon
+- [Mi USB Type C Cable 3 A 1 m Aluminum Foil, Tin-plated Copper CBAC10ZM](https://imanjithreddy.github.io/pricedropped/deal/mi-usb-type-c-cable-3-a-1-m-aluminum-foil-tin-plated-copper-cbac10zm-accgcpn5uyuv5zxh.html): ₹99 at Flipkart
 - [Casio](https://imanjithreddy.github.io/pricedropped/deal/casio-mp000000017221823.html): ₹17,095 at Tata CLiQ
 - [XIAOMI FX Series 138.68 cm (55 inch) Ultra HD (4K) LED Smart Fire TV with Alexa ](https://imanjithreddy.github.io/pricedropped/deal/xiaomi-fx-series-138-68-cm-55-inch-ultra-hd-4k-led-smart-fire-tv-with-tvshavsfqgfgxmgy.html): ₹30,499 at Flipkart
 - [Mi 2-in-1 Cable 3 A 1 m TPE SJX02ZM](https://imanjithreddy.github.io/pricedropped/deal/mi-2-in-1-cable-3-a-1-m-tpe-sjx02zm-accfkfundryvgdqe.html): ₹99 at Flipkart
@@ -55,6 +58,3 @@ affiliate links. Free alerts: https://t.me/pricedroppedhq
 - [Amazon Brand - Solimo Polyester 75% Blackout Door Curtains|Door Curtains|7 Feet|](https://imanjithreddy.github.io/pricedropped/deal/amazon-brand-solimo-polyester-75-blackout-door-curtains-door-curtains-b0brkpvxvq.html): ₹299 at Amazon
 - [Samsung ViewFinity S5 Curved Monitor 86.36 cm (34 inch) Curved UWQHD LED Backlit](https://imanjithreddy.github.io/pricedropped/deal/samsung-viewfinity-s5-curved-monitor-86-36-cm-34-inch-curved-uwqhd-led-monhrf3xgxzxz69c.html): ₹24,099 at Flipkart
 - [Bleu | Body Perfume (120ml)](https://imanjithreddy.github.io/pricedropped/deal/bleu-body-perfume-120ml-8201149841604.html): ₹79 at The Man Company
-- [Dabur Red Gel Ayurvedic Toothpaste - 300g (150g x 2) | Reduction in Bad Breath, ](https://imanjithreddy.github.io/pricedropped/deal/dabur-red-gel-ayurvedic-toothpaste-300g-150g-x-2-reduction-in-bad-brea-b07fw8h9c1.html): ₹102 at Amazon
-- [Wonderchef India Fabric Waterstone Kitchen Towel Set, Set of 2, Beige](https://imanjithreddy.github.io/pricedropped/deal/wonderchef-india-fabric-waterstone-kitchen-towel-set-set-of-2-beige-8996668342449.html): ₹95 at Wonderchef
-- [IQOO 15R 5G (Dark Knight, 256 GB)](https://imanjithreddy.github.io/pricedropped/deal/iqoo-15r-5g-dark-knight-256-gb-mobhhy4gyehgvw3x.html): ₹54,999 at Flipkart
