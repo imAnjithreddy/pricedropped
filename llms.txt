@@ -3,7 +3,7 @@
 > Real price drops, price errors, brand steals and the lowest prices of popular products (iPhone, Galaxy, AirPods,
 > PlayStation...) in India, new and refurbished. Prices are checked every two hours at Amazon, Flipkart, Myntra,
 > Snapdeal, Tata CLiQ, Cashify and 60+ brand stores, and every deal is checked against that product's own price
-> history before it's listed. Last updated 28 October 2026, 19:59 IST.
+> history before it's listed. Last updated 28 October 2026, 20:29 IST.
 
 Prices change fast: each page says when it was checked. Refurbished items are always labelled. Some links are
 affiliate links. Free alerts: https://t.me/pricedroppedhq
@@ -38,9 +38,9 @@ affiliate links. Free alerts: https://t.me/pricedroppedhq
 - [How we find deals](https://imanjithreddy.github.io/pricedropped/about.html)
 
 ## Live deals right now
+- [Casio](https://imanjithreddy.github.io/pricedropped/deal/casio-mp000000017221823.html): ₹17,095 at Tata CLiQ
 - [XIAOMI FX Series 138.68 cm (55 inch) Ultra HD (4K) LED Smart Fire TV with Alexa ](https://imanjithreddy.github.io/pricedropped/deal/xiaomi-fx-series-138-68-cm-55-inch-ultra-hd-4k-led-smart-fire-tv-with-tvshavsfqgfgxmgy.html): ₹30,499 at Flipkart
 - [Mi 2-in-1 Cable 3 A 1 m TPE SJX02ZM](https://imanjithreddy.github.io/pricedropped/deal/mi-2-in-1-cable-3-a-1-m-tpe-sjx02zm-accfkfundryvgdqe.html): ₹99 at Flipkart
-- [Crompton Dyna Ray 5W LED Bulb B22 | Cool Day Light, Pack of 1 | 4kV surge protec](https://imanjithreddy.github.io/pricedropped/deal/crompton-dyna-ray-5w-led-bulb-b22-cool-day-light-pack-of-1-4kv-surge-p-b0b4w3g7sd.html): ₹45 at Amazon
 - [Acer Aspire 3 Intel Core i3 13th Gen 1305U - (8 GB/512 GB SSD/Windows 11 Home) A](https://imanjithreddy.github.io/pricedropped/deal/acer-aspire-3-intel-core-i3-13th-gen-1305u-8-gb-512-gb-ssd-windows-11-comh4b6cgtpnvjw9.html): ₹40,990 at Flipkart
 - [boAt Bar Thump with Wired Subwoofer, RMS 200 W Bluetooth Soundbar](https://imanjithreddy.github.io/pricedropped/deal/boat-bar-thump-with-wired-subwoofer-rms-200-w-bluetooth-soundbar-accgnhjg2y9hrzuy.html): ₹5,449 at Flipkart
 - [Pikkme Samsung Galaxy A53 5G Back Cover Soft Matte Liquid Silicone TPU](https://imanjithreddy.github.io/pricedropped/deal/pikkme-samsung-galaxy-a53-5g-back-cover-soft-matte-liquid-silicone-tpu-b0b1qc1lgb.html): ₹189 at Amazon
