@@ -3,7 +3,7 @@
 > Real price drops, price errors, brand steals and the lowest prices of popular products (iPhone, Galaxy, AirPods,
 > PlayStation...) in India, new and refurbished. Prices are checked every two hours at Amazon, Flipkart, Myntra,
 > Snapdeal, Tata CLiQ, Cashify and 60+ brand stores, and every deal is checked against that product's own price
-> history before it's listed. Last updated 29 October 2026, 09:03 IST.
+> history before it's listed. Last updated 29 October 2026, 11:19 IST.
 
 Prices change fast: each page says when it was checked. Refurbished items are always labelled. Some links are
 affiliate links. Free alerts: https://t.me/pricedroppedhq
@@ -38,6 +38,7 @@ affiliate links. Free alerts: https://t.me/pricedroppedhq
 - [How we find deals](https://imanjithreddy.github.io/pricedropped/about.html)
 
 ## Live deals right now
+- [NIKON ZFC-28MM Mirrorless Camera 28MM](https://imanjithreddy.github.io/pricedropped/deal/nikon-zfc-28mm-mirrorless-camera-28mm-dllgarygcxftajzr.html): ₹84,199 at Flipkart
 - [Wildcraft Mytrix Graphic Printed Small Ergonomic Water Resistant Structured Back](https://imanjithreddy.github.io/pricedropped/deal/wildcraft-mytrix-graphic-printed-small-ergonomic-water-resistant-struc-10293735.html): ₹591 at Myntra
 - [Wildcraft Trix Graphic Small Ergonomic Padded Laptop Compartment Structured Back](https://imanjithreddy.github.io/pricedropped/deal/wildcraft-trix-graphic-small-ergonomic-padded-laptop-compartment-struc-7770894.html): ₹591 at Myntra
 - [Pikkme Mi Redmi 10 Prime Back Cover Soft Matte Liquid Silicone TPU](https://imanjithreddy.github.io/pricedropped/deal/pikkme-mi-redmi-10-prime-back-cover-soft-matte-liquid-silicone-tpu-b0cg9rxz4n.html): ₹189 at Amazon
@@ -57,4 +58,3 @@ affiliate links. Free alerts: https://t.me/pricedroppedhq
 - [Samsung Crystal 4K Vision AI 189 cm (75 inch) Ultra HD (4K) LED Smart Tizen TV 2](https://imanjithreddy.github.io/pricedropped/deal/samsung-crystal-4k-vision-ai-189-cm-75-inch-ultra-hd-4k-led-smart-tize-tvshmhkpfhwkhceu.html): ₹84,999 at Flipkart
 - [Doritos Nacho Chips - Nacho Cheese Flavour - 51.4g(45g+6.4g) (Weight May Vary)](https://imanjithreddy.github.io/pricedropped/deal/doritos-nacho-chips-nacho-cheese-flavour-51-4g-45g-6-4g-weight-may-var-b07qwk8ww2.html): ₹20 at Amazon
 - [Wildcraft Colourblocked Large Ergonomic Padded Shoulder Backpacks](https://imanjithreddy.github.io/pricedropped/deal/wildcraft-colourblocked-large-ergonomic-padded-shoulder-backpacks-12361368.html): ₹1,091 at Myntra
-- [REDMI Pad 2 Pro 5G 8 GB RAM 128 GB ROM 12.1 inch with Wi-Fi+5G Gaming Qualcomm S](https://imanjithreddy.github.io/pricedropped/deal/redmi-pad-2-pro-5g-8-gb-ram-128-gb-rom-12-1-inch-with-wi-fi-5g-gaming-tabhjfbz493s8qzk.html): ₹29,999 at Flipkart
