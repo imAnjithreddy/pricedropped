@@ -3,7 +3,7 @@
 > Real price drops, price errors, brand steals and the lowest prices of popular products (iPhone, Galaxy, AirPods,
 > PlayStation...) in India, new and refurbished. Prices are checked every two hours at Amazon, Flipkart, Myntra,
 > Snapdeal, Tata CLiQ, Cashify and 60+ brand stores, and every deal is checked against that product's own price
-> history before it's listed. Last updated 29 October 2026, 21:23 IST.
+> history before it's listed. Last updated 29 October 2026, 22:22 IST.
 
 Prices change fast: each page says when it was checked. Refurbished items are always labelled. Some links are
 affiliate links. Free alerts: https://t.me/pricedroppedhq
@@ -38,6 +38,9 @@ affiliate links. Free alerts: https://t.me/pricedroppedhq
 - [How we find deals](https://imanjithreddy.github.io/pricedropped/about.html)
 
 ## Live deals right now
+- [boAt EnergyShroom PB300 Neo 10000mAh Power Bank with 22.5W Fast Charging, 3X Out](https://imanjithreddy.github.io/pricedropped/deal/boat-energyshroom-pb300-neo-10000mah-power-bank-with-22-5w-fast-chargi-b0h1hqk8zc.html): ₹899 at Amazon
+- [Sunglasses](https://imanjithreddy.github.io/pricedropped/deal/sunglasses-10171938341111.html): ₹99 at Foxtale
+- [MJE Pack Of 5 Ankle-Length Socks](https://imanjithreddy.github.io/pricedropped/deal/mje-pack-of-5-ankle-length-socks-34396364.html): ₹95 at Myntra
 - [Vaseline Intensive Care Cocoa Glow Nourishing Body Serum in Lotion , For Dry Ski](https://imanjithreddy.github.io/pricedropped/deal/vaseline-intensive-care-cocoa-glow-nourishing-body-serum-in-lotion-for-mscf3m96ayz8pvev.html): ₹177 at Flipkart
 - [Halonix 2 in 1 All Rounder 9W,0.5W B22D Led Bulb Cool White & Off White,Pack of ](https://imanjithreddy.github.io/pricedropped/deal/halonix-2-in-1-all-rounder-9w-0-5w-b22d-led-bulb-cool-white-off-white-b08r4dwm3n.html): ₹49 at Amazon
 - [Lip Lightener For Men (7g)](https://imanjithreddy.github.io/pricedropped/deal/lip-lightener-for-men-7g-9378224603444.html): ₹99 at Beardo
@@ -55,6 +58,3 @@ affiliate links. Free alerts: https://t.me/pricedroppedhq
 - [Amazon Basics Back Case Cover for iPhone 15 Pro | Magnetic Case with Built-in Me](https://imanjithreddy.github.io/pricedropped/deal/amazon-basics-back-case-cover-for-iphone-15-pro-magnetic-case-with-bui-b0fgd69xn7.html): ₹98 at Amazon
 - [Casio](https://imanjithreddy.github.io/pricedropped/deal/casio-mp000000017221823.html): ₹17,095 at Tata CLiQ
 - [XIAOMI FX Series 138.68 cm (55 inch) Ultra HD (4K) LED Smart Fire TV with Alexa ](https://imanjithreddy.github.io/pricedropped/deal/xiaomi-fx-series-138-68-cm-55-inch-ultra-hd-4k-led-smart-fire-tv-with-tvshavsfqgfgxmgy.html): ₹30,499 at Flipkart
-- [Acer Aspire 3 Intel Core i3 13th Gen 1305U - (8 GB/512 GB SSD/Windows 11 Home) A](https://imanjithreddy.github.io/pricedropped/deal/acer-aspire-3-intel-core-i3-13th-gen-1305u-8-gb-512-gb-ssd-windows-11-comh4b6cgtpnvjw9.html): ₹40,990 at Flipkart
-- [boAt Bar Thump with Wired Subwoofer, RMS 200 W Bluetooth Soundbar](https://imanjithreddy.github.io/pricedropped/deal/boat-bar-thump-with-wired-subwoofer-rms-200-w-bluetooth-soundbar-accgnhjg2y9hrzuy.html): ₹5,449 at Flipkart
-- [Pikkme Samsung Galaxy A53 5G Back Cover Soft Matte Liquid Silicone TPU](https://imanjithreddy.github.io/pricedropped/deal/pikkme-samsung-galaxy-a53-5g-back-cover-soft-matte-liquid-silicone-tpu-b0b1qc1lgb.html): ₹189 at Amazon
