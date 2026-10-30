@@ -3,7 +3,7 @@
 > Real price drops, price errors, brand steals and the lowest prices of popular products (iPhone, Galaxy, AirPods,
 > PlayStation...) in India, new and refurbished. Prices are checked every two hours at Amazon, Flipkart, Myntra,
 > Snapdeal, Tata CLiQ, Cashify and 60+ brand stores, and every deal is checked against that product's own price
-> history before it's listed. Last updated 30 October 2026, 10:00 IST.
+> history before it's listed. Last updated 30 October 2026, 11:04 IST.
 
 Prices change fast: each page says when it was checked. Refurbished items are always labelled. Some links are
 affiliate links. Free alerts: https://t.me/pricedroppedhq
@@ -38,6 +38,7 @@ affiliate links. Free alerts: https://t.me/pricedroppedhq
 - [How we find deals](https://imanjithreddy.github.io/pricedropped/about.html)
 
 ## Live deals right now
+- [Puma RS-X Heritage Unisex Lace-Ups Sneakers](https://imanjithreddy.github.io/pricedropped/deal/puma-rs-x-heritage-unisex-lace-ups-sneakers-32386289.html): ₹3,849 at Myntra
 - [Wildcraft Mytrix Camouflage Printed Small Ergonomic Water Resistant Backpacks](https://imanjithreddy.github.io/pricedropped/deal/wildcraft-mytrix-camouflage-printed-small-ergonomic-water-resistant-ba-10321517.html): ₹591 at Myntra
 - [Eveready Ultima MagSafe Compatible Wireless Power Bank PB32, 10,000mAh, 15W Wire](https://imanjithreddy.github.io/pricedropped/deal/eveready-ultima-magsafe-compatible-wireless-power-bank-pb32-10-000mah-b0h3v1phqr.html): ₹899 at Amazon
 - [amazon basics 10000mAh 20W Fast Charging Power Bank and 15W Wireless Output](https://imanjithreddy.github.io/pricedropped/deal/amazon-basics-10000mah-20w-fast-charging-power-bank-and-15w-wireless-o-b0dg2wdrcm.html): ₹999 at Amazon
@@ -57,4 +58,3 @@ affiliate links. Free alerts: https://t.me/pricedroppedhq
 - [Wildcraft Mytrix Graphic Printed Small Ergonomic Water Resistant Structured Back](https://imanjithreddy.github.io/pricedropped/deal/wildcraft-mytrix-graphic-printed-small-ergonomic-water-resistant-struc-10293735.html): ₹591 at Myntra
 - [Wildcraft Trix Graphic Small Ergonomic Padded Laptop Compartment Structured Back](https://imanjithreddy.github.io/pricedropped/deal/wildcraft-trix-graphic-small-ergonomic-padded-laptop-compartment-struc-7770894.html): ₹591 at Myntra
 - [Pikkme Mi Redmi 10 Prime Back Cover Soft Matte Liquid Silicone TPU](https://imanjithreddy.github.io/pricedropped/deal/pikkme-mi-redmi-10-prime-back-cover-soft-matte-liquid-silicone-tpu-b0cg9rxz4n.html): ₹189 at Amazon
-- [HAVELLS 9 W Basic Standard B22 LED Bulb](https://imanjithreddy.github.io/pricedropped/deal/havells-9-w-basic-standard-b22-led-bulb-blbg8m7z6wntvggd.html): ₹105 at Flipkart
