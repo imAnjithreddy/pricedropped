@@ -3,7 +3,7 @@
 > Real price drops, price errors, brand steals and the lowest prices of popular products (iPhone, Galaxy, AirPods,
 > PlayStation...) in India, new and refurbished. Prices are checked every two hours at Amazon, Flipkart, Myntra,
 > Snapdeal, Tata CLiQ, Cashify and 60+ brand stores, and every deal is checked against that product's own price
-> history before it's listed. Last updated 30 October 2026, 11:04 IST.
+> history before it's listed. Last updated 30 October 2026, 12:01 IST.
 
 Prices change fast: each page says when it was checked. Refurbished items are always labelled. Some links are
 affiliate links. Free alerts: https://t.me/pricedroppedhq
@@ -38,6 +38,9 @@ affiliate links. Free alerts: https://t.me/pricedroppedhq
 - [How we find deals](https://imanjithreddy.github.io/pricedropped/about.html)
 
 ## Live deals right now
+- [boAtlifestylein boAt Lunar Discovery Neo | Smartwatch with 1.39" HD Display, 2.5](https://imanjithreddy.github.io/pricedropped/deal/boatlifestylein-boat-lunar-discovery-neo-smartwatch-with-1-39-hd-displ-7456802209890.html): ₹1,299 at boAt
+- [The Woman Company | Milk Face Wash (100ml)](https://imanjithreddy.github.io/pricedropped/deal/the-woman-company-milk-face-wash-100ml-8003736764612.html): ₹79 at The Man Company
+- [Silicone Spatula, Heat Resistant, Flexible, Silicone Sleeve](https://imanjithreddy.github.io/pricedropped/deal/silicone-spatula-heat-resistant-flexible-silicone-sleeve-6687464423601.html): ₹80 at Wonderchef
 - [Puma RS-X Heritage Unisex Lace-Ups Sneakers](https://imanjithreddy.github.io/pricedropped/deal/puma-rs-x-heritage-unisex-lace-ups-sneakers-32386289.html): ₹3,849 at Myntra
 - [Wildcraft Mytrix Camouflage Printed Small Ergonomic Water Resistant Backpacks](https://imanjithreddy.github.io/pricedropped/deal/wildcraft-mytrix-camouflage-printed-small-ergonomic-water-resistant-ba-10321517.html): ₹591 at Myntra
 - [Eveready Ultima MagSafe Compatible Wireless Power Bank PB32, 10,000mAh, 15W Wire](https://imanjithreddy.github.io/pricedropped/deal/eveready-ultima-magsafe-compatible-wireless-power-bank-pb32-10-000mah-b0h3v1phqr.html): ₹899 at Amazon
@@ -55,6 +58,3 @@ affiliate links. Free alerts: https://t.me/pricedroppedhq
 - [Crompton LED50DFCDLPro-2 Base B22 50-Watt LED Bulb Combo (Cool Day Light) (Pack ](https://imanjithreddy.github.io/pricedropped/deal/crompton-led50dfcdlpro-2-base-b22-50-watt-led-bulb-combo-cool-day-ligh-b077lkk1n2.html): ₹398 at Amazon
 - [Lifelong ActiveFlex Weighing Scale (Fight Lazy Series LLWS45- Active Black)|Digi](https://imanjithreddy.github.io/pricedropped/deal/lifelong-activeflex-weighing-scale-fight-lazy-series-llws45-active-bla-b09y6byj8b.html): ₹299 at Amazon
 - [NIKON ZFC-28MM Mirrorless Camera 28MM](https://imanjithreddy.github.io/pricedropped/deal/nikon-zfc-28mm-mirrorless-camera-28mm-dllgarygcxftajzr.html): ₹84,199 at Flipkart
-- [Wildcraft Mytrix Graphic Printed Small Ergonomic Water Resistant Structured Back](https://imanjithreddy.github.io/pricedropped/deal/wildcraft-mytrix-graphic-printed-small-ergonomic-water-resistant-struc-10293735.html): ₹591 at Myntra
-- [Wildcraft Trix Graphic Small Ergonomic Padded Laptop Compartment Structured Back](https://imanjithreddy.github.io/pricedropped/deal/wildcraft-trix-graphic-small-ergonomic-padded-laptop-compartment-struc-7770894.html): ₹591 at Myntra
-- [Pikkme Mi Redmi 10 Prime Back Cover Soft Matte Liquid Silicone TPU](https://imanjithreddy.github.io/pricedropped/deal/pikkme-mi-redmi-10-prime-back-cover-soft-matte-liquid-silicone-tpu-b0cg9rxz4n.html): ₹189 at Amazon
