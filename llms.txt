@@ -3,7 +3,7 @@
 > Real price drops, price errors, brand steals and the lowest prices of popular products (iPhone, Galaxy, AirPods,
 > PlayStation...) in India, new and refurbished. Prices are checked every two hours at Amazon, Flipkart, Myntra,
 > Snapdeal, Tata CLiQ, Cashify and 60+ brand stores, and every deal is checked against that product's own price
-> history before it's listed. Last updated 30 October 2026, 14:47 IST.
+> history before it's listed. Last updated 30 October 2026, 17:39 IST.
 
 Prices change fast: each page says when it was checked. Refurbished items are always labelled. Some links are
 affiliate links. Free alerts: https://t.me/pricedroppedhq
@@ -38,6 +38,10 @@ affiliate links. Free alerts: https://t.me/pricedroppedhq
 - [How we find deals](https://imanjithreddy.github.io/pricedropped/about.html)
 
 ## Live deals right now
+- [ASUS TUF Gaming A15 (2026) AMD Ryzen 7 170 - (16 GB/512 GB SSD/Windows 11 Home/4](https://imanjithreddy.github.io/pricedropped/deal/asus-tuf-gaming-a15-2026-amd-ryzen-7-170-16-gb-512-gb-ssd-windows-11-h-comhzeedep4e92nj.html): ₹89,990 at Flipkart
+- [boAtlifestylein boAt Wave Call 2 Plus | Smartwatch with Bluetooth Calling, 1.96"](https://imanjithreddy.github.io/pricedropped/deal/boatlifestylein-boat-wave-call-2-plus-smartwatch-with-bluetooth-callin-7277001736290.html): ₹1,399 at boAt
+- [Samsung 25 W Adaptive Fast Charging 3 A Wall Charger for Mobile](https://imanjithreddy.github.io/pricedropped/deal/samsung-25-w-adaptive-fast-charging-3-a-wall-charger-for-mobile-acchyg6cxzsz5s7z.html): ₹640 at Flipkart
+- [Safari Nudge Laptop Backpack for men & women, school bag for boys and girls, col](https://imanjithreddy.github.io/pricedropped/deal/safari-nudge-laptop-backpack-for-men-women-school-bag-for-boys-and-gir-b097bgplyv.html): ₹499 at Amazon
 - [FORTUNE Suji Pouch,500 Gram](https://imanjithreddy.github.io/pricedropped/deal/fortune-suji-pouch-500-gram-b08drpyqt3.html): ₹40 at Amazon
 - [Noise ColorFit Giga Smart Watch](https://imanjithreddy.github.io/pricedropped/deal/noise-colorfit-giga-smart-watch-6929026154583.html): ₹1,299 at Noise
 - [Wildcraft Lunar Brand Logo Printed Medium Ergonomic Daisy Chains Backpacks](https://imanjithreddy.github.io/pricedropped/deal/wildcraft-lunar-brand-logo-printed-medium-ergonomic-daisy-chains-backp-30837518.html): ₹999 at Myntra
@@ -54,7 +58,3 @@ affiliate links. Free alerts: https://t.me/pricedroppedhq
 - [MJE Pack Of 5 Ankle-Length Socks](https://imanjithreddy.github.io/pricedropped/deal/mje-pack-of-5-ankle-length-socks-34396364.html): ₹95 at Myntra
 - [Vaseline Intensive Care Cocoa Glow Nourishing Body Serum in Lotion , For Dry Ski](https://imanjithreddy.github.io/pricedropped/deal/vaseline-intensive-care-cocoa-glow-nourishing-body-serum-in-lotion-for-mscf3m96ayz8pvev.html): ₹177 at Flipkart
 - [Halonix 2 in 1 All Rounder 9W,0.5W B22D Led Bulb Cool White & Off White,Pack of ](https://imanjithreddy.github.io/pricedropped/deal/halonix-2-in-1-all-rounder-9w-0-5w-b22d-led-bulb-cool-white-off-white-b08r4dwm3n.html): ₹49 at Amazon
-- [Lip Lightener For Men (7g)](https://imanjithreddy.github.io/pricedropped/deal/lip-lightener-for-men-7g-9378224603444.html): ₹99 at Beardo
-- [MOTOROLA Pad 60 Neo 8 GB RAM 128 GB ROM 11 inch with Wi-Fi+5G MediaTek Dimensity](https://imanjithreddy.github.io/pricedropped/deal/motorola-pad-60-neo-8-gb-ram-128-gb-rom-11-inch-with-wi-fi-5g-mediatek-tabhetugu6t947rj.html): ₹23,999 at Flipkart
-- [Acer Aspire 15 AMD Ryzen 7 Octa Core 7730U - (16 GB/512 GB SSD/Windows 11 Home) ](https://imanjithreddy.github.io/pricedropped/deal/acer-aspire-15-amd-ryzen-7-octa-core-7730u-16-gb-512-gb-ssd-windows-11-comh397xpf4z3bmx.html): ₹55,990 at Flipkart
-- [Nestle Munch Maha Chocolate Wafer, 8.9 g](https://imanjithreddy.github.io/pricedropped/deal/nestle-munch-maha-chocolate-wafer-8-9-g-b0cg9vjwzb.html): ₹5 at Amazon
